@@ -6,3 +6,4 @@
 - [data/celebs.text](https://artofmemory.com/files/forum/947/initials.txt?_ga=2.42526565.1147344043.1569555157-1984831696.1569555157)
 - [data/everest.json](https://everest.link)
 - [data/dapps.json](https://dap.ps)
+- [data/web.json](https://raw.githubusercontent.com/makoto/ensauctionstats/master/dataset/web.csv)
