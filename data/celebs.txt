@@ -1,0 +1,4093 @@
+A,Adele
+A,Alf
+A,Aristotle
+A,Attenborough
+AA,Abigail Adams
+AA,Adam Arkin
+AA,Alan Alda
+AA,Alan Arkin
+AA,Alan Autry
+AA,Alvin Ailey
+AA,Amedeo Avogadro
+AA,Amy Adams
+AA,Andre Agasi
+AA,Andre Agassi
+AA,Anouk Aimée
+AA,Ansel Adams
+AA,Army Archerd
+AA,Art Alexakis
+AA,Arthur Ashe
+AA,Ashley Angel
+AB,Aaron Burr
+AB,Abigail Breslin
+AB,Abigail Van Buren
+AB,Adam Brody
+AB,Adrien Brody
+AB,Adrienne Barbeau
+AB,Alan Bates
+AB,Alan Beckwith
+AB,Albert Brooks
+AB,Alec Baldwin
+AB,Alex Baldwin
+AB,Alexander Graham Bell
+AB,Alexis Bledel
+AB,Amanda Bynes
+AB,Ambrose Bierce
+AB,Amy Brenneman
+AB,Andrea Bocelli
+AB,Angela Bassett
+AB,Anita Bryant
+AB,Ann Blyth
+AB,Anne Bancroft
+AB,Anne Bronte
+AB,Annette Bening
+AB,Anthony Burgess
+AB,Antonio Banderas
+AB,Art Bell
+AB,Art Blakey
+AB,Art Buchwald
+AB,Aubrey Beardsley
+AB,August Anheuser Busch
+AC,Aaron Copland
+AC,Adam Carolla
+AC,Agatha Christie
+AC,Al Capone
+AC,Al Capp
+AC,Alexander Calder
+AC,Alice Cooper
+AC,Alistair Cooke
+AC,Angela Cartwright
+AC,Anton Chekhov
+AC,Art Carney
+AC,Arthur C. Clarke
+AC,Augustus Caesar
+AD,Abner Doubleday
+AD,Adam Duritz
+AD,Adelle Davis
+AD,Alberto Santos Dumont
+AD,Alexandre Dumas
+AD,Andrea Dromm
+AD,Andy Devine
+AD,Angela Davis
+AD,Angie Dickinson
+AD,Ann B. Davis
+AD,Annie Duke
+AD,Arlene Dahl
+AE,Abby Elliott
+AE,Albert Einstein
+AE,Amelia Earhart
+AE,Anita Ekberg
+AF,A.J. Foyt
+AF,Ace Frehley
+AF,Agnetha Fältskog
+AF,Albert Finney
+AF,Alice Faye
+AF,Allen Funt
+AF,America Ferrera
+AF,Anne Frank
+AF,Annette Funicello
+AF,Anthony Franciosa
+AF,Aretha Franklin
+AF,Arthur Fiedler
+AG,Al Gore
+AG,Al Green
+AG,Alan Greenspan
+AG,Alec Guinness
+AG,Alexander Godunov
+AG,Alexander the Great
+AG,Allen Ginsberg
+AG,Allen Greenspan
+AG,Amy Grant
+AG,Andre the Giant
+AG,Andrew Greeley
+AG,Andy Garcia
+AG,Andy Gibb
+AG,Andy Griffith
+AG,Anthony Geary
+AG,Anthony Glise
+AG,Art Garfunkel
+AG,Arthur Godfrey
+AG,Arye Gross
+AG,Astrud Gilberto
+AG,Ava Gardner
+AH,Abbie Hoffman
+AH,Adolf Hitler
+AH,Al Hirschfeld
+AH,Al Hirt
+AH,Aldous Huxley
+AH,Alex Haley
+AH,Alex Harvey
+AH,Alexander Hamilton
+AH,Alfred Hitchcock
+AH,Alger Hiss
+AH,Anjelica Huston
+AH,Anthony Hopkins
+AH,Arsenio Hall
+AH,Audrey Hepburn
+AI,Aga Khan IV
+AI,Allen Iverson
+AI,Amy Irving
+AJ,Agnelina Jolie
+AJ,Al Jarreau
+AJ,Al Jolson
+AJ,Alan Jackson
+AJ,Amy Jo Johnson
+AJ,Andrew Jackson
+AJ,Andrew Johnson
+AJ,Ann Jillian
+AJ,Anne Jeffreys
+AJ,Arte Johnson
+AJ,Ashley Judd
+AK,Akira Kurosawa
+AK,Al Kaline
+AK,Alan King
+AK,Albert King
+AK,Alex Karras
+AK,Alfred Kinsey
+AK,Alicia Keys
+AK,Andy Kaufman
+AK,Arthur Kennedy
+AK,Ashton Kutcher
+AL,Abraham Lincoln
+AL,Alan Jay Lerner
+AL,Alan Ladd
+AL,Alex Lifeson
+AL,Allen Ludden
+AL,Alvin Lee
+AL,Amy Locane
+AL,Amy Lowell
+AL,Angela Lansbury
+AL,Ann Landers
+AL,Annie Leibovitz
+AL,Annie Lennox
+AL,Art Linkletter
+AL,Avril Lavigne
+AM,A.A. Milne
+AM,Abraham Maslow
+AM,Agnes Moorehead
+AM,Al Michaels
+AM,Ali MacGraw
+AM,Amadeus Mozart
+AM,Andie Macdowell
+AM,Andre Michelin
+AM,Ann Margret
+AM,Ann Miller
+AM,Anne McCaffrey
+AM,Anne Meara
+AM,Anne Murray
+AM,Archie Moore
+AM,Ari Meyers
+AM,Arthur Miller
+AM,Arthur Murray
+AM,Audie Murphy
+AM,Audrey Meadows
+AN,Aaron Neville
+AN,Alfred Nobel
+AN,Anaïs Nin
+AN,Anthony Newley
+AO,Anita ODay
+AO,Annie Oakley
+AO,Aristotle Onassis
+AO,Ashley Olsen
+AP,Adrian Paul
+AP,Al Pacino
+AP,Alain Prost
+AP,Albert Pujols
+AP,Alex Pettyfer
+AP,Amy Poehler
+AP,Andre Previn
+AP,Anthony Perkins
+AP,Arnold Palmer
+AP,Arthur Penn
+AP,Audrina Patridge
+AP,Austin Peck
+AQ,Aidan Quinn
+AQ,Anthony Quinn
+AR,Al Roker
+AR,Alan Rickman
+AR,Alan Ruck
+AR,Alex Rodriguez
+AR,Alfonso Ribeiro
+AR,Amália Rodrigues
+AR,Andy Roddick
+AR,Andy Rooney
+AR,Anika Noni Rose
+AR,Anne Rice
+AR,Anne Robinson
+AR,Arthur Rimbaud
+AR,Arthur Rubenstein
+AR,Auguste Rodin
+AR,Axl Rose
+AR,Ayn Rand
+AS,Aaron Spelling
+AS,Adam Sandler
+AS,Alan Shepard
+AS,Albert Schweitzer
+AS,Alberto Santos-Dumont
+AS,Aleksandr Solzhenitsyn
+AS,Alicia Silverstone
+AS,Ally Sheedy
+AS,Alyson Stoner
+AS,Amy Smart
+AS,Andres Segovia
+AS,Andrew Shue
+AS,Andy Summers
+AS,Ann Sothern
+AS,Anna Nicole Smith
+AS,Anwar Sadat
+AS,Ariel Sharon
+AS,Arion Salazar
+AS,Arnold Schwartineger
+AS,Arnold Stang
+AS,Arthur Sullivan
+AS,Artie Shaw
+AS,Ashley Simpson
+AS,Avery Schreiber
+AS,Ayrton Senna da Silva
+AT,Aida Turturro
+AT,Aisha Tyler
+AT,Alan Thicke
+AT,Alan Trammell
+AT,Alan Turing
+AT,Alex Trebek
+AT,Alexandre Tansman
+AT,Alvin Toffler
+AT,Amanda Tapping
+AT,Anthony Trollope
+AT,Arthur Treacher
+AT,Arturo Toscanini
+AT,Ashley Tisdale
+AU,Al Unser
+AV,Abe Vigoda
+AV,Alessandro Volta
+AV,Alexa Vega
+AV,Amerigo Vespucci
+AV,Antonio Villaraigosa
+AV,Antonio Vivaldi
+AW,Adam West
+AW,Alice Walker
+AW,Amy Winehouse
+AW,Andrew Lloyd Webber
+AW,Andrew Wyeth
+AW,Andy Warhol
+AW,Andy Williams
+AY,Adam Yauch
+AY,Al Yankovic
+AY,Al Yankovick
+AY,Andrew Young
+AZ,Anthony Zerbe
+B,Bach
+B,Batman
+B,Beck
+B,Beethoven
+B,Beyonce
+B,Bono
+B,Boone
+B,Borat
+B,Branagh
+B,Brandy
+BA,Beatrice Arthur
+BA,Ben Affleck
+BA,Benedict Arnold
+BA,Benny Andersson
+BA,Bibi Andersson
+BA,Billie Joe Armstrong
+BA,Brooks Atkinson
+BA,Bryan Adams
+BA,Bud Abbott
+BA,Buzz Aldrin
+BB,Barbara Bach
+BB,Barbara Bush
+BB,Barry Bonds
+BB,Bear Bryant
+BB,Beau Bridges
+BB,Ben Blue
+BB,Ben Bradlee
+BB,Benjamin Britten
+BB,Bertolt Brecht
+BB,Big Bird
+BB,Big Bopper
+BB,Bill Berry
+BB,Bill Bixby
+BB,Bill Bradley
+BB,Billie Burke
+BB,Billy Barty
+BB,Bix Beiderbecke
+BB,Bob Barker
+BB,Bonnie Bedelia
+BB,Bonnie Blair
+BB,Brendan Behan
+BB,Brian Boitano
+BB,Brigitte Bardot
+BB,Buffalo Bill
+BB,Burt Bacharach
+BB,Busby Berkeley
+BB,Béla Bartók
+BC,Barbara Carrera
+BC,Ben Crenshaw
+BC,Bert Convy
+BC,Bill Clinton
+BC,Bill Cosby
+BC,Bill Cullen
+BC,Billy Corgan
+BC,Billy Crystal
+BC,Billy Ray Cyrus
+BC,Bing Crosby
+BC,Bob Costas
+BC,Bob Crane
+BC,Bruce Catton
+BC,Bud Collyer
+BC,Bud Cort
+BC,Butch Cassidy
+BD,Barney the Dinosaur
+BD,Barry Van Dyke
+BD,Bette Davis
+BD,Bo Derek
+BD,Bo Diddley
+BD,Bob Denver
+BD,Bob Dole
+BD,Bob Dorough
+BD,Bob Dylan
+BD,Bobby Darin
+BD,Brad Dourif
+BD,Brian DePalma
+BD,Brooklyn Decker
+BD,Bruce Dern
+BE,Barbara Eden
+BE,Bill Engvall
+BE,Billy Eckstine
+BE,Blake Edwards
+BE,Bob Edwards
+BE,Bob Eubanks
+BE,Britt Ekland
+BE,Buddy Ebsen
+BF,Barbara Feldon
+BF,Ben Franklin
+BF,Benjamin Franklin
+BF,Betty Ford
+BF,Betty Friedan
+BF,Bill C.W. McCall Fries
+BF,Bob Fosse
+BF,Bobby Fischer
+BF,Bobby Flay
+BF,Bonnie Franklin
+BF,Brendan Fraser
+BG,Barry Gibb
+BG,Barry Goldwater
+BG,Ben Gazzara
+BG,Benny Goodman
+BG,Berry Gordy
+BG,Betty Grable
+BG,Bill Gates
+BG,Billy Gibbons
+BG,Billy Graham
+BG,Bob Geldof
+BG,Bob Greene
+BG,Bob Guccione
+BG,Bobbie Gentry
+BG,Bobby Goldsboro
+BG,Boy George
+BG,Brad Garrett
+BG,Buddy Guy
+BH,Barbara Harris
+BH,Barbara Hershey
+BH,Barbara Hutton
+BH,Beck Hansen
+BH,Ben Hogan
+BH,Benjamin Harrison
+BH,Benny Hill
+BH,Betty Hutton
+BH,Bill Haley
+BH,Bill Hickok
+BH,Bill Hicks
+BH,Billie Holiday
+BH,Bob Hope
+BH,Bob Hoskins
+BH,Bobby Hatfield
+BH,Bobby Hull
+BH,Bret Hart
+BH,Brett Hull
+BH,Bryan Dexter Holland
+BH,Buck Henry
+BH,Buddy Hackett
+BH,Buddy Holly
+BI,Billy Idol
+BI,Burl Ives
+BJ,Barbara Jordan
+BJ,Bianca Jagger
+BJ,Billy Joel
+BJ,Bo Jackson
+BJ,Brian Jones
+BJ,Bruce Jenner
+BK,B.B. King
+BK,Bela Karolyi
+BK,Ben Kingsley
+BK,Beyonce Knowles
+BK,Billie Jean King
+BK,Billy the Kid
+BK,Bob Captain Kangaroo Keeshan
+BK,Bobby Knight
+BK,Boris Karloff
+BK,Brian Keith
+BK,Buster Keaton
+BL,Bela Lugosi
+BL,Bert Lahr
+BL,Brandon Lee
+BL,Brenda Lee
+BL,Brian Lamb
+BL,Brooke Langton
+BL,Bruce Lee
+BL,Bucky Lasek
+BL,Burt Lancaster
+BM,Barbara Mandrell
+BM,Barry Manilow
+BM,Bat Man
+BM,Bat Masterson
+BM,Benito Mussolini
+BM,Bernard Madoff
+BM,Bernie Mac
+BM,Bess Myerson
+BM,Bette Midler
+BM,Bill Maher
+BM,Bill Mauldin
+BM,Bill Medley
+BM,Bill Moyers
+BM,Bill Mumy
+BM,Bill Murray
+BM,Billy Mitchell
+BM,Bob Marley
+BM,Bob Monkhouse
+BM,Bradley McIntosh
+BM,Branford Marsalis
+BM,Brent Musburger
+BM,Brian McKnight
+BM,Burgess Meredith
+BM,Butterfly McQueen
+BN,Barry Nelson
+BN,Bebe Neuwirth
+BN,Bob Newhart
+BN,Brad Nowell
+BO,Barack Obama
+BO,Bobby Orr
+BP,Beatrix Potter
+BP,Bernadette Peters
+BP,Bert Parks
+BP,Bill Paxton
+BP,Bill Pullman
+BP,Billy Preston
+BP,Blaise Pascal
+BP,Bonnie Parker
+BP,Boris Pasternak
+BP,Brad Pitt
+BR,Babe Ruth
+BR,Bertrand Russell
+BR,Betsy Ross
+BR,Bill Russell
+BR,Bobby Rydell
+BR,Brandon Routh
+BR,Brooks Robinson
+BR,Buddy Rich
+BR,Burt Reynolds
+BS,B. F. Skinner
+BS,B.F. Skinner
+BS,Barbara Stanwyck
+BS,Barbara Streisand
+BS,Barbra Streisand
+BS,Barry Sanders
+BS,Bart Simpson
+BS,Bedrich Smetana
+BS,Ben Stiller
+BS,Benjamin Spock
+BS,Bessie Smith
+BS,Beverly Sills
+BS,Bo Schembechler
+BS,Bob Saget
+BS,Bob Schieffer
+BS,Bob Segar
+BS,Bob Seger
+BS,Bobby Sherman
+BS,Boris Spassky
+BS,Bram Stoker
+BS,Brendan Shanahan
+BS,Britney Spears
+BS,Brittany Spears
+BS,Brooke Shields
+BS,Bruce Springsteen
+BS,Buffalo Bob Smith
+BT,Bess Truman
+BT,Betty Thomas
+BT,Billy Bob Thornton
+BT,Bishop Desmond Tutu
+BT,Booker T
+BU,Björn Ulvaeus
+BU,Bob Uecker
+BU,Bobby Unser
+BU,Brendon Urie
+BV,Ben Vereen
+BV,Bobby Vinton
+BV,Brenda Vaccaro
+BW,Barbara Walters
+BW,Barry White
+BW,Betty White
+BW,Billy Dee Williams
+BW,Billy Wilder
+BW,Bob Weir
+BW,Bob Wian
+BW,Bob Woodward
+BW,Booker T. Washington
+BW,Bow Wow
+BW,Brian Williams
+BW,Brian Wilson
+BW,Bruce Willis
+BW,Bryan White
+BW,Burt Ward
+BY,Boris Yeltsin
+BY,Burt Young
+BZ,Billy Zane
+C,Cantinflas
+C,Carew
+C,Cher
+C,Christo
+C,Cleopatra
+C,Colette
+C,Coolio
+C,Culkin
+CA,Charles Addams
+CA,Charles Atlas
+CA,Chester A. Arthur
+CA,Chet Atkins
+CA,Christina Aguilara
+CA,Claude Akins
+CA,Cliff Arquette
+CA,Criss Angel
+CA,Cüneyt Arkin
+CB,Camilla Parker Bowles
+CB,Candace Bergen
+CB,Candice Bergen
+CB,Carl Bernstein
+CB,Carla Bruni
+CB,Carlos Bernard
+CB,Carol Burnett
+CB,Carroll Baker
+CB,Chad Brannon
+CB,Charles Babbage
+CB,Charles Barkley
+CB,Charles Boyer
+CB,Charles Bronson
+CB,Charles Bukowski
+CB,Charlie Brown
+CB,Charlotte Bronte
+CB,Chris Brown
+CB,Christian Bale
+CB,Christie Brinkley
+CB,Chuck Berry
+CB,Claire Bloom
+CB,Clara Barton
+CB,Clara Bow
+CB,Cliff Burton
+CB,Clyde Barrow
+CB,Corbin Bernsen
+CB,Count Basie
+CC,Cab Calloway
+CC,Calvin Coolidge
+CC,Candace Cameron
+CC,Carlos Castaneda
+CC,Carol Channing
+CC,Cathy Lee Crosby
+CC,Celia Cruz
+CC,Cesar Chavez
+CC,Charisma Carpenter
+CC,Charlie Chaplin
+CC,Chevy Chase
+CC,Chick Corea
+CC,Chris Carter
+CC,Chris Cooper
+CC,Christopher Columbus
+CC,Christopher Cuomo
+CC,Chubby Checker
+CC,Chuck Connors
+CC,Cindy Crawford
+CC,Claudette Colbert
+CC,Claudia Cardinale
+CC,Clive Cussler
+CC,Connie Chung
+CC,Cris Collinsworth
+CC,Cyd Charisse
+CC,César Chávez
+CD,Cameron Diaz
+CD,Catherine Deneuve
+CD,Cecil B. DeMille
+CD,Celine Dion
+CD,Charles Dance
+CD,Charles Darwin
+CD,Charles Dickens
+CD,Charles Durning
+CD,Charlie Daniels
+CD,Christian Doppler
+CD,Chuck Daly
+CD,Claire Danes
+CD,Clarence Darrow
+CD,Claude Debussy
+CD,Colleen Dewhurst
+CD,Count Dracula
+CD,Courtnee Draper
+CE,Carmen Electra
+CE,Cedric the Entertainer
+CE,Chad Everett
+CE,Chris Elliott
+CE,Chris Evert
+CE,Clint Eastwood
+CF,Calista Flockhart
+CF,Carrie Fisher
+CF,Chris Farley
+CF,Colin Firth
+CF,Connie Francis
+CG,Carl XVI Gustav
+CG,Carla Gugino
+CG,Cary Grant
+CG,Catherine the Great
+CG,Cathy Guisewite
+CG,Charles Goodyear
+CG,Charles Grodin
+CG,Charles de Gaulle
+CG,Che Guevara
+CG,Chief Dan George
+CG,Chris Gaines
+CG,Christopher Guest
+CG,Chuck Greenburg
+CG,Clark Gable
+CG,Crystal Gayle
+CG,Cuba Gooding
+CG,Curt Gowdy
+CH,C. Thomas Howell
+CH,Celeste Holm
+CH,Charleton Heston
+CH,Charlton Heston
+CH,Chet Huntley
+CH,Chick Hearn
+CH,Chrissie Hynde
+CH,Clint Howard
+CH,Coleman Hawkins
+CH,Conrad Hilton
+CH,Curly Howard
+CI,Charles Ives
+CI,Chris Isaak
+CI,Christopher Isherwood
+CJ,C. G. Jung
+CJ,Carl Jung
+CJ,Carolyn Dawn Johnson
+CJ,Cherry Jones
+CJ,Chipper Jones
+CJ,Chris Jericho
+CJ,Chuck Jones
+CK,Calvin Klein
+CK,Captain Kangaroo
+CK,Carol Kane
+CK,Carole King
+CK,Caroline Kennedy
+CK,Casey Kasem
+CK,Chaka Khan
+CK,Charles Everett Koop
+CK,Charles Kuralt
+CK,Chiang Kai-Shek
+CK,Clinton Kelly
+CK,Coretta Scott King
+CK,Craig Kilborn
+CL,C. S. Lewis
+CL,C.S. Lewis
+CL,Carl Lewis
+CL,Carol Lawrence
+CL,Carole Lombard
+CL,Charles Laughton
+CL,Charles Lindbergh
+CL,Charles Lucky Luciano
+CL,Cheryl Ladd
+CL,Christine Lahti
+CL,Christopher Lee
+CL,Christopher Lloyd
+CL,Claude Lelouch
+CL,Cleo Laine
+CL,Cloris Leachman
+CL,Courtney Love
+CL,Cyndi Lauper
+CM,Carlos Saul Menem
+CM,Carmen Miranda
+CM,Chad Michael Murray
+CM,Charlie Musselwhite
+CM,Chico Marx
+CM,Chris Matthews
+CM,Christa McAuliffe
+CM,Christine McVie
+CM,Chuck Mangione
+CM,Claude Monet
+CM,Clayton Moore
+CM,Connie Mack
+CM,Constance Moore
+CM,Curtis Mayfield
+CM,Cyrus McCormick
+CN,Carry Nation
+CN,Chester W. Nimitz
+CN,Chris Noth
+CN,Chuck Norris
+CN,Craig T. Nelson
+CN,Cynthia Nixon
+CO,Cardinal John OConnor
+CO,Carroll OConnor
+CO,Charles Osgood
+CO,Chris ODonnell
+CO,Conan OBrien
+CO,Conan Obrien
+CP,Carlo Ponti
+CP,Charles Perrault
+CP,Charlie Bird Parker
+CP,Charlie Pride
+CP,Chris Pine
+CP,Claude Pepper
+CP,Cole Porter
+CP,Colin L. Powell
+CP,Colin Powell
+CR,Cal Ripken
+CR,Carl Reiner
+CR,Cathy Rigby
+CR,Cesar Romero
+CR,Charles Ringling
+CR,Charlie Rich
+CR,Chita Rivera
+CR,Chris Rock
+CR,Christina Ricci
+CR,Christopher Reeve
+CR,Christopher Reeves
+CR,Claude Rains
+CR,Cliff Richard
+CR,Cliff Robertson
+CR,Cokie Roberts
+CR,Condoleezza Rice
+CR,Cyril Ritchard
+CS,Carl Alfalfa Switzer
+CS,Carl Sagan
+CS,Carl Sandburg
+CS,Carly Simon
+CS,Carrie Snodgress
+CS,Carroll Spinney
+CS,Casey Stengel
+CS,Cat Stevens
+CS,Charles Schulz
+CS,Charles Tom Thumb Stratton
+CS,Charlie Sheen
+CS,Chesley Sully Sullenberger
+CS,Chiang Kai Shek
+CS,Chris Schenkel
+CS,Chris Squire
+CS,Christian Slater
+CS,Claudia Schiffer
+CS,Cole Sprouse
+CS,Colonel Harland Sanders
+CS,Connie Stevens
+CS,Craig Sheffer
+CS,Cree Summer
+CS,Curtis Sliwa
+CS,Cybill Shepherd
+CT,Carrot Top
+CT,Charlize Theron
+CT,Cheryl Tiegs
+CT,Chris Tucker
+CT,Cicely Tyson
+CT,Claire Trevor
+CT,Clyde W. Tombaugh
+CT,Concetta Tomei
+CT,Conway Twitty
+CU,Carrie Underwood
+CV,Cassie Ventura
+CW,Charlie Watts
+CW,Chris Wallace
+CW,Christopher Walken
+CW,Christopher Wren
+CW,Cindy Williams
+CW,Cornel Wilde
+CY,Carl Yastrzemski
+CY,Charles Yeager
+CY,Chuck Yeager
+CY,Cy Young
+D,Dan
+D,Dilbert
+D,Divine
+D,Dominique
+D,Donovan
+D,Dorothy
+D,Dracula
+DA,Dan Aykroyd
+DA,Danny Aiello
+DA,Darrell Abbott
+DA,Debbie Allen
+DA,Desi Arnaz
+DA,Devon Aoki
+DA,Dianna Agron
+DA,Dimebag Darrell Abbott
+DA,Don Adams
+DA,Don Ameche
+DA,Douglas Adams
+DA,Duane Allman
+DB,Dan Blocker
+DB,Dan Brown
+DB,Daniel Boone
+DB,Danny Bonaduce
+DB,Danny Boyle
+DB,Dante Basco
+DB,Dave Brubeck
+DB,David Beckham
+DB,David Blaine
+DB,David Boreanaz
+DB,David Bowie
+DB,David Brenner
+DB,David Brinkley
+DB,David Byrne
+DB,Daws Butler
+DB,Debby Boone
+DB,Delta Burke
+DB,Dennis Banks
+DB,Dewey Bunnell
+DB,Dick Butkus
+DB,Dick Button
+DB,Dirk Benedict
+DB,Dirk Bogarde
+DB,Don Bendell
+DB,Doyle Brunson
+DB,Drew Barrymore
+DB,Drew Barymore
+DB,Drew Bledsoe
+DB,Drew Brees
+DC,Dabney Coleman
+DC,Dale Carnegie
+DC,Dan Castellaneta
+DC,Dana Carvey
+DC,Darva Conger
+DC,Dave Chappelle
+DC,Dave Clark
+DC,Dave Coulier
+DC,David Carradine
+DC,David Caruso
+DC,David Cassidy
+DC,David Clayton-Thomas
+DC,David Copperfield
+DC,David Crosby
+DC,Davy Crockett
+DC,Deepak Chopra
+DC,Diahann Carroll
+DC,Dick Cavett
+DC,Dick Cheney
+DC,Dick Clark
+DC,Doug Clifford
+DC,Drew Carey
+DC,Dyan Cannon
+DD,Daniel Day-Lewis
+DD,Danny DeVito
+DD,Daryl Dragon
+DD,Dave Davies
+DD,David Duchovney
+DD,David Duchovny
+DD,Dennis Day
+DD,Diana DeGarmo
+DD,Dick Van Dyke
+DD,Dimebag Darrell
+DD,Dizzy Dean
+DD,Dom DeLuise
+DD,Dom DiMaggio
+DD,Don Drysdale
+DD,Doris Day
+DD,Dr. Charles Drew
+DD,Dr. Dre
+DD,Dr. Drew
+DE,Dale Earnhardt
+DE,Dale Earnhart
+DE,Dale Evans
+DE,Danny Elfman
+DE,Dave The Edge Evans
+DE,David James Elliott
+DE,Denholm Elliott
+DE,Don Everly
+DE,Duane Eddy
+DE,Duke Ellington
+DE,Dwight D. Eisenhower
+DE,Dwight Eisenhower
+DF,Daisy Fuentes
+DF,Dakota Fanning
+DF,David Frost
+DF,Dawn French
+DF,Dennis Franz
+DF,Diane von Furstenburg
+DF,Don Francisco
+DF,Donna Fargo
+DF,Douglas Fairbanks
+DF,Douglas Fraser
+DG,D.W. Griffith
+DG,Dan George
+DG,Dann Gillen
+DG,Danny Glover
+DG,David Gavurin
+DG,David Geffen
+DG,David Gilmour
+DG,Deborah Gibson
+DG,Dick Gregory
+DG,Dizzy Gillespie
+DG,Duff Goldman
+DG,Dwight Gooden
+DH,Dana Hamm
+DH,Daryl Hannah
+DH,Dashiell Hammett
+DH,David Hasselhoff
+DH,Deborah Harry
+DH,Dennis Hastert
+DH,Dennis Hopper
+DH,Doc Holliday
+DH,Dolores Hope
+DH,Don Henley
+DH,Don Hewitt
+DH,Don Ho
+DH,Don Mr. Wizard Herbert
+DH,Dorothy Hamill
+DH,Doug Henning
+DH,Dustin Hoffman
+DH,Dwayne Hickman
+DH,Dwight Howard
+DI,Don Imus
+DJ,Dan Jansen
+DJ,Daniel Johns
+DJ,David Janssen
+DJ,David Jason
+DJ,Davy Jones
+DJ,Dean Jagger
+DJ,Dean Jones
+DJ,Derek Jeter
+DJ,Dr. J
+DJ,Dwayne Johnson
+DK,Danny Kaye
+DK,Daren Kagasoff
+DK,DeForest Kelley
+DK,Deborah Kerr
+DK,Diane Keaton
+DK,Don Knotts
+DK,Donna Karan
+DK,Duke Kahanamoku
+DK,Durward Kirby
+DL,D.H. Lawrence
+DL,Dalai Lama
+DL,Daniel Day Lewis
+DL,Dave Letterman
+DL,David Lean
+DL,David Letterman
+DL,David Lynch
+DL,Demi Lovato
+DL,Denis Leary
+DL,Diane Ladd
+DL,Diane Lane
+DL,Dino De Laurentiis
+DL,Dorothea Lange
+DL,Dorothy Lamour
+DL,Dr. Laura
+DL,Drew Lachey
+DM,Dan Marino
+DM,Dan Millman
+DM,Darren McGavin
+DM,Dave Matthews
+DM,David Mamet
+DM,David McCallum
+DM,Dean Martin
+DM,Demi Moore
+DM,Dennis Miller
+DM,Dick Martin
+DM,Dickie Moore
+DM,Dina Merrill
+DM,Don Mattingly
+DM,Don McLean
+DM,Donna Mills
+DM,Donny Most
+DM,Dorothy Malone
+DM,Douglas MacArthur
+DM,Dr. Phil McGraw
+DM,Dudley Moore
+DN,David Nelson
+DN,David Niven
+DN,Dirk Nowitzky
+DN,Don Novello
+DN,Dr. No
+DO,David Ossman
+DO,Dick ONeill
+DO,Donald OConnor
+DO,Donny Osmond
+DP,Dan Peek
+DP,Dana Plato
+DP,Danica Patrick
+DP,David Hyde Pierce
+DP,David Paterson
+DP,Dev Patel
+DP,Dick Powell
+DP,Dick Van Patten
+DP,Dolly Parton
+DP,Donald Pleasence
+DP,Dorothy Parker
+DP,Dorothy Provine
+DP,Dr. Drew Pinsky
+DP,Dr. Phil
+DQ,Dan Quayle
+DQ,Dennis Quaid
+DR,Dale Robertson
+DR,Damon Runyon
+DR,Dan Rather
+DR,Dan Rowan
+DR,Dave Ramsey
+DR,David Lee Roth
+DR,David Robinson
+DR,Debbie Reynolds
+DR,Della Reese
+DR,Denise Richards
+DR,Diana Rigg
+DR,Diana Ross
+DR,Diego Rivera
+DR,Django Reinhardt
+DR,Don Rickles
+DR,Donna Reed
+DR,Doris Roberts
+DR,Dr. Ruth
+DS,Daniel Schorr
+DS,Daniel Stern
+DS,Danielle Steel
+DS,Darryl Strawberry
+DS,Daryl Strawberry
+DS,David O. Selznick
+DS,David Sarnoff
+DS,David Schwimmer
+DS,David Silveria
+DS,David Soul
+DS,David Spade
+DS,David Susskind
+DS,Dean Stockwell
+DS,Dee Snider
+DS,Deion Sanders
+DS,Del Shannon
+DS,Diane Sawyer
+DS,Dick Smothers
+DS,Dinah Shore
+DS,Dmitri Shostakovich
+DS,Doc Severinsen
+DS,Don Shula
+DS,Donald Sutherland
+DS,Donna J. Stone
+DS,Donna Summer
+DS,Dr. Benjamin Spock
+DS,Dr. Laura Schlessinger
+DS,Dr. Seuss
+DS,Duke Snider
+DS,Dusty Springfield
+DS,Dylan Sprouse
+DT,Danny Thomas
+DT,David Clayton Thomas
+DT,Donald Trump
+DT,Dylan Thomas
+DV,Darth Vader
+DV,Dick Vitale
+DW,Damon Wayans
+DW,Daniel Hale Williams
+DW,Daniel Webster
+DW,Dawn Wells
+DW,Debra Winger
+DW,Dennis Weaver
+DW,Dennis Wilson
+DW,Denzel Washington
+DW,Dianne Wiest
+DW,Dionne Warwick
+DW,Doc Watson
+DW,Donnie Wahlberg
+DW,Dr. Daniel Hale Williams
+DW,Dr. Ruth Westheimer
+DW,Dwayne Wade
+DW,Dwyane Wade
+DX,Deng Xiaoping
+DY,Dwight Yoakam
+DZ,Daphne Zuniga
+E,Eisenhower
+E,Elmo
+E,Eminem
+EA,Earl Anthony
+EA,Ed Ames
+EA,Ed Asner
+EA,Ed Autry
+EA,Eddie Albert
+EA,Eddy Arnold
+EA,Edie Adams
+EA,Edward Albee
+EA,Edwin Buzz Aldrin
+EA,Elvis Andrus
+EA,Erin Andrews
+EA,Eve Arden
+EB,Ed Begley
+EB,Ed Bradley
+EB,Edd Kookie Byrnes
+EB,Eddie Belfour
+EB,Eddie Bracken
+EB,Edgar Bergen
+EB,Edgar Rice Burroughs
+EB,Eileen Brennan
+EB,Elizabeth Barrett Browning
+EB,Ellen Barkin
+EB,Ellen Burstyn
+EB,Emily Bronte
+EB,Eric Bana
+EB,Eric Burdon
+EB,Erik Bruhn
+EB,Erma Bombeck
+EB,Ernest Borgnine
+EB,Ernie Banks
+EB,Ethel Barrymore
+EC,Earl Campbell
+EC,Eddie Cantor
+EC,Eldridge Cleaver
+EC,Elvis Costello
+EC,Enrico Caruso
+EC,Eric Clapton
+EC,e.e. cummings
+ED,Edgar Degas
+ED,Elizabeth Dole
+ED,Ellen DeGeneres
+ED,Ellen Degenerous
+ED,Emily Dickinson
+EE,Edward Elgar
+EE,Elizabeth Edwards
+EE,Emilio Estavez
+EE,Emilio Estevez
+EE,Eric Estrada
+EE,Erik Estrada
+EF,Eddie Fisher
+EF,Edward Furlong
+EF,Eileen Farrell
+EF,Eileen Ford
+EF,Ella Fitzgerald
+EF,Emerson Fittipaldi
+EF,Enrico Fermi
+EF,Errol Flynn
+EG,Eddie Guerrero
+EG,Edmund Gwenn
+EG,Elliott Gould
+EG,Erroll Garner
+EG,Estelle Getty
+EG,Eva Gabor
+EG,Evan Grant
+EG,Evonne Goolagong
+EG,Eydie Gorme
+EH,Earl Fatha Hines
+EH,Ed Harris
+EH,Edd Hall
+EH,Eddie Van Halen
+EH,Edmund Hillary
+EH,Edwin Hubble
+EH,Elizabeth Hurley
+EH,Emmylou Harris
+EH,Erin Hershey
+EH,Ernest Hemingway
+EH,Ernie Harwell
+EH,Estelle Halliwell
+EI,Enrique Iglesias
+EI,Eugene Ionesco
+EJ,Earvin Magic Johnson
+EJ,Ellen Johnson-Sirleaf
+EJ,Elton John
+EJ,Erica Jong
+EJ,Ervin Magic Johnson
+EK,Eartha Kitt
+EK,Edward M. Kennedy
+EK,Elia Kazan
+EK,Emmett Kelly
+EK,Ernie Kovacs
+EK,Ethel Kennedy
+EK,Evel Knievel
+EL,Elmore Leonard
+EL,Eric Lindros
+EL,Eugene Levy
+EL,Eva Longoria
+EM,E.G. Marshall
+EM,Ed McMahon
+EM,Eddie Money
+EM,Eddie Murphey
+EM,Eddie Murphy
+EM,Eddie Murray
+EM,Edouard Manet
+EM,Edward R. Murrow
+EM,Elaine May
+EM,Elijah Muhammad
+EM,Elizabeth Montgomery
+EM,Elle Macpherson
+EM,Ethel Merman
+EM,Eugene McCarthy
+EM,Eva Mendes
+EM,Ewan McGregor
+EN,Ed Norton
+EN,Edward Norton
+EN,Edwin Newman
+EO,Ed ONeill
+EO,Ed Oneill
+EO,Emily Osment
+EO,Eugene ONeill
+EO,Eugene Ormandy
+EP,Edgar Allan Poe
+EP,Edgar Allen Poe
+EP,Edith Piaf
+EP,Eleanor Parker
+EP,Elvis Presley
+EP,Emily Post
+EP,Estelle Parsons
+EP,Eva Peron
+EP,Ezra Pound
+ER,Eddie Rabbit
+ER,Eleanor Roosevelt
+ER,Emily Robison
+ER,Eric Roberts
+ER,Esther Rolle
+ES,Earl DMX Simmons
+ES,Earl Scheib
+ES,Ed Sullivan
+ES,Edward Steichen
+ES,Elisabeth Shue
+ES,Elizabeth Ann Seton
+ES,Elke Sommer
+ES,Ellen Johnson Sirleaf
+ES,Emmitt Smith
+ES,Engineer Bill Stulla
+ES,Eric Sevareid
+ES,Eric Stoltz
+ES,Eric Szmanda
+ES,Erich Segal
+ES,Erik Everlast Schrody
+ES,Eva Marie Saint
+ET,E T
+ET,Elizabeth Taylor
+ET,Emma Thompson
+EV,Eddie Cleanhead Vinson
+EV,Eddie Van-Halen
+EV,Eddie Vedder
+EW,E.B. White
+EW,Edgar Winter
+EW,Edith Wharton
+EW,Edward D. Wood
+EW,Edward Woodward
+EW,Eli Wallach
+EW,Elijah Wood
+EW,Emma Watson
+EW,Esther Williams
+EW,Ethel Waters
+EW,Eudora Welty
+F,Fabian
+F,Fabio
+F,Fergie
+F,Flea
+F,Fogelberg
+FA,F. Murray Abraham
+FA,Fiona Apple
+FA,Frank Abagnale
+FA,Frankie Avalon
+FA,Fred Allen
+FA,Fred Astaire
+FA,Frederick Ashton
+FB,F Lee Bailey
+FB,F. Lee Bailey
+FB,Fanny Brice
+FB,Foster Brooks
+FB,Foxy Brown
+FB,Francis Bacon
+FB,Frank Borman
+FB,Freddie Blassie
+FC,Felipe Calderón
+FC,Fidel Castro
+FC,Francis Coppala
+FC,Francis Coppola
+FC,Frank Caliendo
+FC,Frank Capra
+FC,Fred Couples
+FC,Frederic Chopin
+FD,F.W. deKlerk
+FD,Fats Domino
+FD,Faye Dunaway
+FD,Fran Drescher
+FD,Fran Dresher
+FD,Fred Durst
+FD,Frederick Douglass
+FD,Fyodor Dostoevsky
+FE,Fedor Emelianenko
+FF,Farrah Fawcett
+FF,Federico Fellini
+FF,Flavor Flav
+FF,Francisco Franco
+FG,Farley Granger
+FG,Forrest Gump
+FG,Frank Gifford
+FG,Frank Gorshin
+FG,Fred Gwynne
+FH,Faith Hill
+FH,Felicity Huffman
+FH,Friedensreich Hundertwasser
+FK,Francis Scott Key
+FK,Franz Kafka
+FK,Frida Kahlo
+FL,Frances Langford
+FL,Frank Langella
+FL,Frankie Laine
+FL,Franz Liszt
+FL,Frederick Loewe
+FM,Ferdinand Jelly Roll Morton
+FM,Frank Tug McGraw
+FM,Frankie Manning
+FM,Fred MacMurray
+FM,Freddie Mercury
+FN,Fayard Nicholas
+FN,Fred Norris
+FO,Frank Oz
+FP,Fess Parker
+FP,Floyd Patterson
+FP,Franklin Pierce
+FP,Freddie Prinze
+FR,Frank Rizzo
+FR,Frank Robinson
+FR,Franklin D. Roosevelt
+FR,Fred Rogers
+FS,Frank Sinatra
+FS,French Stewart
+FT,Fran Tarkenton
+FV,Fernando Valenzuela
+FV,Frankie Valli
+FW,Fats Waller
+FW,Fay Wray
+FW,Flip Wilson
+FW,Forest Whitaker
+FW,Frank Lloyd Wright
+FZ,Florenz Ziegfeld
+FZ,Franco Zeffirelli
+FZ,Frank Zappa
+G,Galileo
+G,Gallagher
+G,Gandhi
+G,Geri
+G,Grover
+GA,Gene Autry
+GA,Gillian Anderson
+GA,Giorgio Armani
+GA,Gracie Allen
+GA,Gregg Allman
+GB,Garth Brooks
+GB,Gary Burghoff
+GB,Gary Busey
+GB,Gary U.S. Bonds
+GB,Gene Barry
+GB,Genevieve Bujold
+GB,George Balanchine
+GB,George Benson
+GB,George Blaha
+GB,George Brett
+GB,George Burns
+GB,George Bush
+GB,George W. Bush
+GB,Georges Bizet
+GB,Gerry Beckley
+GB,Ginger Baker
+GB,Glenn Beck
+GB,Gordon Brown
+GB,Grace Bumbry
+GB,Gwendolyn Brooks
+GC,G.K. Chesterton
+GC,Gary Coleman
+GC,Gary Cooper
+GC,George Carlin
+GC,George Clooney
+GC,George Crockett
+GC,George M. Cohan
+GC,Geraldine Chaplin
+GC,Glen Campbell
+GC,Glenn Close
+GC,Grover Cleveland
+GD,Gary DellAbate
+GD,Geena Davis
+GD,George Dolenz
+GD,Gina Davis
+GE,Gloria Estefan
+GF,George Foreman
+GF,Gerald R. Ford
+GF,Geraldine Ferraro
+GF,Glenn Ford
+GF,Glenn Frey
+GF,Gracie Fields
+GF,Guy Fieri
+GG,Gale Gordon
+GG,Galileo Galilei
+GG,George Gershwin
+GG,George Gobel
+GG,Gilbert Godfried
+GG,Gilbert Gottfried
+GG,Glenn Gould
+GG,Gloria Gaynor
+GG,Greer Garson
+GG,Greta Garbo
+GH,Gabby Hayes
+GH,Gene Hackman
+GH,George Hamilton
+GH,George Harrison
+GH,George Roy Hill
+GH,Goldie Hawn
+GH,Gordie Howe
+GH,Grant Hill
+GH,Gregory Harrison
+GH,Gregory Hines
+GJ,George Jones
+GJ,Glenda Jackson
+GJ,Glynis Johns
+GJ,Gordon Jump
+GK,Gabe Kaplan
+GK,Garrison Keillor
+GK,Garry Kasparov
+GK,Gene Kelly
+GK,Gene Krupa
+GK,George Kennedy
+GK,George Machine Gun Kelly
+GK,Gladys Knight
+GK,Grace Kelly
+GL,G. Gordon Liddy
+GL,Gary Larson
+GL,Gaston Leroux
+GL,Geddy Lee
+GL,George Lopez
+GL,George Lucas
+GL,Giada De Laurentiis
+GL,Gina Lollobrigida
+GL,Gordon Lightfoot
+GL,Greg LeMond
+GL,Guy Lombardo
+GL,Gypsy Rose Lee
+GM,Garrett Morgan
+GM,Garrett Morris
+GM,Garry Moore
+GM,Gary Moore
+GM,Gavin MacLeod
+GM,George C. Marshall
+GM,George Martin
+GM,George McGovern
+GM,George Murphy
+GM,George Spanky McFarland
+GM,Gisele MacKenzie
+GM,Glenn Miller
+GM,Golda Meir
+GM,Gordon MacRae
+GM,Grandma Moses
+GM,Greg Morris
+GM,Gregor Mendel
+GM,Groucho Marx
+GM,Guglielmo Marconi
+GM,Gummo Marx
+GM,Guy Madison
+GN,George Noory
+GN,Graham Nash
+GN,Greg Norman
+GO,Gary Oldman
+GO,Gary Owens
+GO,George Orwell
+GO,Georgia OKeeffe
+GP,Gary Player
+GP,Gene De Paul
+GP,George Patton
+GP,George Peppard
+GP,George Plimpton
+GP,Georges Pompidou
+GP,Giacomo Puccini
+GP,Gordon Parks
+GP,Grace Potter
+GP,Gregory Peck
+GP,Guy Pearce
+GP,Gwyneth Paltrow
+GR,Gena Rowlands
+GR,Gene Rayburn
+GR,Gene Roddenberry
+GR,George A. Romero
+GR,George Reeves
+GR,Gilda Radner
+GR,Ginger Rogers
+GR,Grigori Rasputin
+GR,Guy Ritchie
+GS,Gabriela Sabatini
+GS,Gale Storm
+GS,Garry Shandling
+GS,Gary Sandy
+GS,Gary Sinise
+GS,Gene Simmons
+GS,Gene Siskel
+GS,George Beverly Shea
+GS,George C. Scott
+GS,George Segal
+GS,George Shearing
+GS,George Stephanopoulos
+GS,George Strait
+GS,Georges Seurat
+GS,Gertrude Stein
+GS,Gloria Steinem
+GS,Gloria Stuart
+GS,Gloria Swanson
+GS,Grace Slick
+GS,Guitar Shorty
+GS,Gwen Stefani
+GT,George Takei
+GT,George Thorogood
+GT,Grant Tinker
+GU,Galina Ulanova
+GV,Gianni Versace
+GV,Giuseppe Verdi
+GV,Gloria Vanderbilt
+GV,Gore Vidal
+GV,Gwen Verdon
+GW,Gahan Wilson
+GW,Gene Wilder
+GW,George F. Will
+GW,George Washington
+GW,George Wendt
+GW,George Westinghouse
+GW,Gerard Way
+GW,Grant Wood
+GY,Glenn Yarborough
+H,Houdini
+H,Hutton
+HA,Hank Aaron
+HA,Hank Azaria
+HA,Hans Christian Anderson
+HA,Henry Hank Aaron
+HA,Herb Alpert
+HA,Horatio Alger
+HB,Halle Berry
+HB,Harry Belafonte
+HB,Henri Cartier Bresson
+HB,Hugh Beaumont
+HB,Humphrey Bogart
+HC,Hans Christian-Anderson
+HC,Hans Conried
+HC,Harry Caray
+HC,Harry Carrey
+HC,Harry Chapin
+HC,Hayden Christensen
+HC,Heloise Bowles Cruse
+HC,Henri Cartier-Bresson
+HC,Herb Caen
+HC,Hillary Clinton
+HC,Hoagy Carmichael
+HC,Holly Marie Combs
+HC,Howard Carter
+HC,Howard Cosell
+HC,Hume Cronyn
+HD,Harley Davidson
+HD,Heavy D
+HD,Hilary Duff
+HD,Howie Dorough
+HD,Hugh Downs
+HE,Hallie Eisenberg
+HE,Herm Edwards
+HF,Harrison Ford
+HF,Harvey Fierstein
+HF,Harvey Firestone
+HF,Henry Fonda
+HF,Henry Ford
+HG,H.R. Giger
+HG,Heather Graham
+HG,Henry Gibson
+HG,Hetty Green
+HG,Hugh Grant
+HH,Hal Holbrook
+HH,Harry Hamlin
+HH,Harry Houdini
+HH,Hedda Hopper
+HH,Helen Hayes
+HH,Helen Hunt
+HH,Henry John Heinz
+HH,Herbert Hoover
+HH,Herbie Hancock
+HH,Herman Hollerith
+HH,Hermann Hesse
+HH,Holly Hunter
+HH,Howard Hesseman
+HH,Howard Hughes
+HH,Hugh Hefner
+HH,Hulk Hogan
+HH,Huntz Hall
+HJ,Harry James
+HJ,Henry James
+HJ,Hu Jintao
+HJ,Hugh Jackman
+HK,Hank Ketcham
+HK,Harvey Keitel
+HK,Harvey Korman
+HK,Heidi Klum
+HK,Helen Keller
+HK,Henry A. Kissinger
+HK,Henry Kissinger
+HK,Howard Keel
+HL,H.P. Lovecraft
+HL,Hal Linden
+HL,Harold Lloyd
+HL,Harper Lee
+HL,Heath Ledger
+HL,Heather Locklear
+HL,Henry Wadsworth Longfellow
+HL,Huddie Lead Belly Ledbetter
+HM,Harry Morgan
+HM,Harvey Milk
+HM,Hayley Mills
+HM,Heidi Montag
+HM,Helen Mirren
+HM,Hendrik Meijer
+HM,Henri Mancini
+HM,Henri Matisse
+HM,Henry Mancini
+HM,Henry Miller
+HM,Henry Morgan
+HM,Herbie Mann
+HM,Herman Melville
+HM,Ho Chi Minh
+HM,Hosni Mubarak
+HM,Howie Mandel
+HN,Harold Nicholas
+HN,Harriet Nelson
+HO,H.C. Oersted
+HO,Hakeem Olajuwon
+HO,Haley Joel Osment
+HO,Helen OConnell
+HO,Hugh OBrian
+HP,H. Ross Perot
+HP,Harold Pinter
+HP,Harve Presnell
+HP,Hayden Panettiere
+HR,Hal Roach
+HR,Harold Pee Wee Reese
+HR,Harold Ramis
+HR,Harold Robbins
+HR,Harry Reasoner
+HR,Helen Reddy
+HR,Howard Rollins
+HS,Han Solo
+HS,Hannah Spearritt
+HS,Harriet Beecher Stowe
+HS,Harry Shearer
+HS,Hilary Swank
+HS,Hillary Swank
+HS,Homer Simpson
+HS,Horace Silver
+HS,Howard Stern
+HT,Harry S. Truman
+HT,Harry Truman
+HW,H.G. Wells
+HW,Hank Williams
+HW,Harriet Wheeler
+HW,Henry Winkler
+HW,Herschel Walker
+HY,Henny Youngman
+IA,Ian Anderson
+IA,Isaac Asimov
+IB,Ingmar Bergman
+IB,Ingrid Bergman
+IB,Irving Berlin
+IC,Ice Cube
+IC,Imogene Coca
+IC,Irene Cara
+ID,Irene Dunne
+ID,Isadora Duncan
+IF,Ian Fleming
+IG,Indira Gandhi
+IG,Ira Gershwin
+IG,Ira Glass
+IH,Isaac Hayes
+IL,Ida Lupino
+IM,Ian McDiarmid
+IM,Ian McKellen
+IN,Isaac Newton
+IP,I.M. Pei
+IP,Iggy Pop
+IP,Irene Papas
+IP,Itzhak Perlman
+IP,Ivan Pavlov
+IS,Igor Stravinsky
+IS,Ione Skye
+IS,Isaac Stern
+IS,Isabel Sanford
+IT,Ice T
+IT,Ike Turner
+IT,Isiah Thomas
+IT,Ivana Trump
+IZ,Ian Ziering
+J,Jackson
+J,Juanes
+JA,Jack Anderson
+JA,James Agee
+JA,James Arness
+JA,Jane Austen
+JA,Jean Arthur
+JA,Jennifer Aniston
+JA,Jessica Alba
+JA,Joan Van Ark
+JA,Joan of Arc
+JA,John Adams
+JA,John Amos
+JA,John Astin
+JA,John James Audubon
+JA,John Quincy Adams
+JA,Jon Anderson
+JA,Julie Andrews
+JA,June Allyson
+JB,J Boog
+JB,Jack Benny
+JB,Jack Black
+JB,Jack Bruce
+JB,Jackson Browne
+JB,Jacqueline Bisset
+JB,James Baldwin
+JB,James Bond
+JB,James Brown
+JB,James Buchanan
+JB,James L. Brooks
+JB,Javier Bardem
+JB,Jean-Paul Belmondo
+JB,Jeff Bezos
+JB,Jeff Bridges
+JB,Jennifer Beals
+JB,Jenson Button
+JB,Jessica Biel
+JB,Jill Biden
+JB,Jim Backus
+JB,Jim Bakker
+JB,Jim Belushi
+JB,Jim Brown
+JB,Jimmy Breslin
+JB,Jimmy Buffett
+JB,Joan Baez
+JB,Joe Biden
+JB,Joe E. Brown
+JB,Joey Bishop
+JB,Johann Sebastian Bach
+JB,John Barry
+JB,John Barrymore
+JB,John Belushi
+JB,John Bonham
+JB,John Brown
+JB,Johnny Bench
+JB,Jon Bon-Jovi
+JB,Jonathan Brandis
+JB,Joseph Barbera
+JB,Josephine Baker
+JB,Judy Blume
+JB,Juliette Binoche
+JB,Justin Bieber
+JC,J.C. Chasez
+JC,J.J. Cale
+JC,Jack Casady
+JC,Jackie Chan
+JC,Jackie Collins
+JC,Jackie Coogan
+JC,Jackie Cooper
+JC,Jacques Cousteau
+JC,James Caan
+JC,James Cagney
+JC,James Cameron
+JC,James Caviezel
+JC,James Coburn
+JC,Jamie Lee Curtis
+JC,Jane Curtin
+JC,Jean Chrétien
+JC,Jean Cocteau
+JC,Jeanne Crain
+JC,Jeff Chandler
+JC,Jennifer Capriati
+JC,Jennifer Connelly
+JC,Jeremy Castle
+JC,Jesus Christ
+JC,Jill Clayburgh
+JC,Jim Carrey
+JC,Jim Corr
+JC,Jim Courier
+JC,Jim Croce
+JC,Jimmy Carter
+JC,Jimmy Conners
+JC,Jimmy Connors
+JC,Joan Chen
+JC,Joan Collins
+JC,Joan Crawford
+JC,Joan Cusack
+JC,Joe Cocker
+JC,John Cage
+JC,John Candy
+JC,John Carpenter
+JC,John Cena
+JC,John Chapman
+JC,John Cleese
+JC,John Coltrane
+JC,John Cusack
+JC,John Le Carre
+JC,Johnny Carson
+JC,Johnny Cash
+JC,Jon Cryer
+JC,Joseph Campanella
+JC,Joseph Conrad
+JC,Joseph Cotten
+JC,José Canseco
+JC,Juan Carlos
+JC,Judy Collins
+JC,Julia Child
+JC,Julian Casablancas
+JD,Jack Dempsey
+JD,Jakob Dylan
+JD,James Daughton
+JD,James Dean
+JD,James Dickey
+JD,James Doohan
+JD,Jeff Daniels
+JD,Jefferson Davis
+JD,Jerry Van Dyke
+JD,Jim Davis
+JD,Jimmy Dean
+JD,Jimmy Dorsey
+JD,Jimmy Durante
+JD,Joe Dante
+JD,Joe DiMaggio
+JD,Joe Dimaggio
+JD,John Davidson
+JD,John Deacon
+JD,John Densmore
+JD,John Denver
+JD,John Derek
+JD,John Dillinger
+JD,Johnny Depp
+JD,Joyce DeWitt
+JD,Judy Dench
+JD,Julia Louis Dreyfus
+JE,Jason Earles
+JE,Jenna Elfman
+JE,Jill Eikenberry
+JE,John Elway
+JE,John Entwistle
+JE,Julius Dr. J Erving
+JE,Julius Erving
+JF,James Farentino
+JF,James Fox
+JF,James Franciscus
+JF,James Franco
+JF,Jamie Farr
+JF,Jamie Foxx
+JF,Jane Fonda
+JF,Jane Froman
+JF,Jeff Fahey
+JF,Jeff Foxworthy
+JF,Jerry Falwell
+JF,Jimmy Fallon
+JF,Joan Fontaine
+JF,Jodie Foster
+JF,Joe Frazier
+JF,Joey Fatone
+JF,John Ford
+JF,John Forsythe
+JF,José Feliciano
+JF,José Ferrer
+JF,Jules Feiffer
+JF,June Foray
+JG,J. Paul Getty
+JG,Jackie Gleason
+JG,Jake Gyllenhaal
+JG,James Galway
+JG,James Gandolfini
+JG,James Garfield
+JG,James Garner
+JG,Jane Goodall
+JG,Janeane Garofalo
+JG,Jasmine Guy
+JG,Jean-Luc Godard
+JG,Jean-Paul Gaultier
+JG,Jeff Goldblum
+JG,Jeff Gordon
+JG,Jennie Garth
+JG,Jennifer Garner
+JG,Jerry Garcia
+JG,Joe Garagiola
+JG,Joel Grey
+JG,Johann von Goethe
+JG,Johannes Gutenberg
+JG,John Gielgud
+JG,John Glenn
+JG,John Gosselin
+JG,John Grisham
+JG,Johnny Gruelle
+JG,Jon Gosselin
+JG,Jose Greco
+JG,Josh Golden
+JG,Josh Groban
+JG,Judy Garland
+JH,J. Edgar Hoover
+JH,James Herriot
+JH,James Hetfield
+JH,James Hunt
+JH,Jan Hooks
+JH,Jean Harlow
+JH,Jeff Hardy
+JH,Jennifer Love Hewitt
+JH,Jesse Helms
+JH,Jill Hennessy
+JH,Jim Henson
+JH,Jimi Hendrix
+JH,Jimmy Hoffa
+JH,Joey Heatherton
+JH,John Hancock
+JH,John Hughes
+JH,John Hurt
+JH,John Huston
+JH,John Lee Hooker
+JH,Jon Hamm
+JH,Jools Holland
+JH,Joseph Haydn
+JH,Josh Hartnett
+JH,Judd Hirsch
+JI,James Merritt Ives
+JI,Janis Ian
+JI,Jeremy Irons
+JI,Jill Ireland
+JI,Judge Lance Ito
+JI,Julio Iglesias
+JJ,Jack Jones
+JJ,Jackie Joyner-Kersee
+JJ,James Earl Jones
+JJ,James Joyce
+JJ,Janet Jackson
+JJ,Janis Joplin
+JJ,Jasper Johns
+JJ,Jennifer Jones
+JJ,Jenny Jones
+JJ,Jermaine Jackson
+JJ,Jesse Jackson
+JJ,Jesse James
+JJ,Jill St. John
+JJ,Joan Jett
+JJ,Joe Jonas
+JJ,John H. Johnson
+JJ,John Paul Jones
+JJ,Jon Bon Jovi
+JJ,Judith Jamison
+JK,Jack Kemp
+JK,Jack Kerouac
+JK,Jack Klugman
+JK,Jackie Joyner Kersee
+JK,Jane Kaczmarek
+JK,Jean-Claude Killy
+JK,Jerome Kern
+JK,Jerzy Kosinski
+JK,Joanna Kerns
+JK,Johannes Kepler
+JK,John F. Kennedy
+JK,John Katz
+JK,John Keats
+JK,John Kerry
+JK,John Krasinski
+JK,Joseph P. Kennedy
+JK,Joyce Kilmer
+JK,Julie Kavner
+JL,Jack LaLanne
+JL,Jack Lemmon
+JL,Jack London
+JL,Jack Lord
+JL,Jack Lousma
+JL,Jake LaMotta
+JL,James Longstreet
+JL,Janet Leigh
+JL,Jason Lee
+JL,Jay Leno
+JL,Jeff Licon
+JL,Jennifer Jason Leigh
+JL,Jennifer Lopez
+JL,Jerry Lee Lewis
+JL,Jerry Lewis
+JL,Jessica Lange
+JL,Jet Li
+JL,Joan Lunden
+JL,Joe E. Lewis
+JL,Joe Louis
+JL,Joey Lawrence
+JL,John Landis
+JL,John Larroquette
+JL,John Leguizamo
+JL,John Lennon
+JL,John Lewis
+JL,John Lithgow
+JL,John Phillip Law
+JL,Jon Lee
+JL,Jon Lovitz
+JL,Jude Law
+JL,Julia Louis-Dreyfus
+JL,Julian Lennon
+JL,Julie London
+JL,Juliette Lewis
+JL,Juliette Low
+JL,June Lockhart
+JM,J.P. McCarthy
+JM,Jackie Mason
+JM,James Madison
+JM,James Marsters
+JM,James Mason
+JM,James Michener
+JM,James Monroe
+JM,James Morrison
+JM,Jan Merlin
+JM,Jayne Mansfield
+JM,Jayne Meadows
+JM,Jean Marsh
+JM,Jeanne Moreau
+JM,Jillian Michaels
+JM,Jim McKay
+JM,Jim Messina
+JM,Jim Morrison
+JM,Joan Miró
+JM,Joe Montana
+JM,Joel McCrea
+JM,John Madden
+JM,John Major
+JM,John Malkovich
+JM,John Mayall
+JM,John Mayer
+JM,John McCain
+JM,John McEnroe
+JM,John Mills
+JM,John Milton
+JM,John Muir
+JM,John Singleton Mosby
+JM,Johnny Mathis
+JM,Johnny Mercer
+JM,Johnny Miller
+JM,Joni Mitchell
+JM,José Marti
+JM,Julian McMahon
+JM,Julianne Moore
+JM,Juliet Mills
+JN,Jack Nicholson
+JN,Jack Nicklaus
+JN,Jack Niclaus
+JN,James Naismith
+JN,James Noble
+JN,Jason Curtis Newsted
+JN,Jason Newsted
+JN,Jawaharlal Nehru
+JN,Jay North
+JN,Jim Nabors
+JN,Joe Namath
+JN,Johnette Napolitano
+JN,Judd Nelson
+JN,Julie Newmar
+JO,Jacqueline Kennedy Onasis
+JO,Jennifer ONeill
+JO,Jerry Orbach
+JO,Jesse Owens
+JO,Jo OMeara
+JO,Johnny Otis
+JO,Joyce Carol Oates
+JP,Jack Paar
+JP,Jack Palance
+JP,Jackson Pollock
+JP,James Cash Penney
+JP,James K. Polk
+JP,James Patterson
+JP,Jane Pauley
+JP,Jason Priestley
+JP,Jean Luc Ponty
+JP,Jean Piaget
+JP,Jeff Probst
+JP,Jim Palmer
+JP,Jimmy Page
+JP,Joe Paterno
+JP,Joe Perry
+JP,Joe Pesci
+JP,Joe Piscopo
+JP,John J. Pershing
+JP,Johnny Paycheck
+JP,Joseph Papp
+JP,Joseph Pulitzer
+JP,Juan Peron
+JP,Juliet Prowse
+JR,J.K. Rowling
+JR,J.P. Big Bopper Richardson
+JR,Jackie Robinson
+JR,James Earl Ray
+JR,James Randi
+JR,Jan van Riebeeck
+JR,Jane Russell
+JR,Jason Robards
+JR,Jean Reno
+JR,Jeanne Robertson
+JR,Jeannie C. Riley
+JR,Jeri Ryan
+JR,Jerome Robbins
+JR,Jerry Rice
+JR,Joan Rivers
+JR,Joe E. Ross
+JR,Joey Ramone
+JR,John Ratzenberger
+JR,John Ritter
+JR,Johnnie Ray
+JR,Jon Benet Ramsey
+JR,Joyce Randolph
+JR,Julia Roberts
+JS,J.D. Salinger
+JS,Jaclyn Smith
+JS,Jacqueline Susann
+JS,Jaden Smith
+JS,James Spader
+JS,Jamie Lynn Spears
+JS,Jane Seymore
+JS,Jane Seymour
+JS,Jay Silverheels
+JS,Jean Seberg
+JS,Jean Sibelius
+JS,Jean Simmons
+JS,Jean Smart
+JS,Jean Stapleton
+JS,Jean-Paul Sartre
+JS,Jeremy Sumpter
+JS,Jerry Seinfeld
+JS,Jerry Springer
+JS,Jerry Stiller
+JS,Jessica Simpson
+JS,Jessica Steen
+JS,Jimmy Smits
+JS,Jimmy Stewart
+JS,Jo Stafford
+JS,Joan Sutherland
+JS,John Cameron Swayze
+JS,John Paul Stevens
+JS,John Philip Sousa
+JS,John Sandford
+JS,John Sebastian
+JS,John Singer Sargent
+JS,John Singer-Sargent
+JS,John Stamos
+JS,John Steinbeck
+JS,Jon Stewart
+JS,Jonas Salk
+JS,Jonathan Swift
+JS,Joseph Stalin
+JS,Joss Stone
+JS,Jozef Sabovcik
+JS,Judge Judy Sheindlin
+JS,Judy Sheindlin
+JS,Julia Stiles
+JS,Junior Seau
+JT,J.R.R. Tolkien
+JT,Jacques Tati
+JT,James Taylor
+JT,James Thurber
+JT,Jeff Timmons
+JT,Jennifer Tilly
+JT,Jessica Tandy
+JT,Jim Thorpe
+JT,John Tesh
+JT,John Travolta
+JT,John Turturro
+JT,John Tyler
+JT,Justin Timberlake
+JU,Jacob Underwood
+JU,Jay Underwood
+JU,John Updike
+JU,Johnny Unitas
+JV,James Van-Der-Beek
+JV,Jan Vermeer
+JV,Jesse Ventura
+JV,Jon Voight
+JV,Jules Verne
+JW,Jack Warden
+JW,Jack Webb
+JW,Jack Weston
+JW,Jack White
+JW,James Whitmore
+JW,James Woods
+JW,Jamie Walters
+JW,Jane Wyatt
+JW,Jane Wyman
+JW,Jesse White
+JW,Jimmie Walker
+JW,Jimmy Wakely
+JW,Jimmy Webb
+JW,Jo Anne Worley
+JW,Joanne Woodward
+JW,Joe Williams
+JW,John Walsh
+JW,John Waters
+JW,John Wayne
+JW,John Williams
+JW,John Wooden
+JW,Johnny Winter
+JW,Jonathan Winters
+JW,Joseph Wambaugh
+JW,Joseph Wapner
+JW,Judge Joseph Wapner
+JZ,Jay Z
+JZ,Jiang Zemin
+K,Kajol
+K,Kane
+K,Kathie
+K,Kenneth
+KA,Kareem Abdul-Jabbar
+KA,Karen Allen
+KA,Kim Alexis
+KA,Kirstie Alley
+KA,Kofi Annan
+KA,Konrad Adenauer
+KA,Kurt Angle
+KB,Karen Black
+KB,Kate Bush
+KB,Kathryn Bigelow
+KB,Kathy Bates
+KB,Kaye Ballard
+KB,Keefe Brasselle
+KB,Ken Berry
+KB,Kevin Bacon
+KB,Kim Basinger
+KB,Kobe Bryant
+KC,Karen Carpenter
+KC,Kate Capshaw
+KC,Kathleen Casey
+KC,Katie Couric
+KC,Keith Carradine
+KC,Kelly Clarkson
+KC,Ken Curtis
+KC,Kenny Chesney
+KC,Kevin Cadogan
+KC,Kevin Costner
+KC,Kim Campbell
+KC,Kim Carnes
+KC,Kim Cattrall
+KC,Kirk Cameron
+KC,Kit Carson
+KC,Kurt Cobain
+KD,Kat Von D
+KD,Keir Dullea
+KD,Kirk Douglas
+KD,Kirsten Dunst
+KD,Kristin Davis
+KE,Kim Elizabeth
+KE,King Edward
+KF,Ken Follett
+KF,Kirk Franklin
+KG,Kahlil Gibran
+KG,Kate Gosselin
+KG,Kathryn Grayson
+KG,Kathy Griffin
+KG,Kelsey Grammer
+KG,Kenny G
+KH,Kate Hudson
+KH,Katharine Hepburn
+KH,Katie Holmes
+KH,Ken Howard
+KH,King Henry
+KH,Kitty Carlisle Hart
+KH,Kyle Howard
+KI,Kathy Ireland
+KI,Kim Jong Il
+KJ,Kareem Abdul Jabbar
+KJ,Kate Jackson
+KJ,Kim Jong-Il
+KK,Kala Sosefina Mileniume Kauvaka
+KK,Keira Knightley
+KK,Ken Kesey
+KK,Kim Kardashian
+KK,Kiri Te Kanawa
+KK,Kourtney Kardashian
+KK,Kurt Krakowian
+KL,Keith Lockhart
+KL,Kelly Lynch
+KL,Kenny Loggins
+KM,Karl Malden
+KM,Karl Marx
+KM,Karl Menninger
+KM,Kate Middleton
+KM,Kate Mulgrew
+KM,Keith Moon
+KM,Kel Mitchell
+KM,Kelly McGillis
+KM,Kent McCord
+KM,Kristy McNichol
+KN,Kim Novak
+KP,Keke Palmer
+KP,Kelly Preston
+KP,Kenneth Patchen
+KP,Keshia Knight Pulliam
+KP,Kherington Payne
+KP,Kirby Puckett
+KR,Katharine Ross
+KR,Keanu Reeves
+KR,Keith Richards
+KR,Ken Russell
+KR,Kenny Rogers
+KR,Keri Russell
+KR,Kevin Richardson
+KR,Kid Rock
+KR,Knute Rockne
+KR,Kurt Russell
+KS,Kate Smith
+KS,Katee Sackhoff
+KS,Kay Starr
+KS,Keely Smith
+KS,Kenneth Starr
+KS,Kerri Strug
+KS,Kevin Spacey
+KS,Kirsten Storms
+KS,Kyra Sedgwick
+KT,Kathleen Turner
+KT,Koko Taylor
+KU,Karl Urban
+KV,Kat Von-D
+KV,Kurt Vonnegut
+KW,Kanye West
+L,Liberace
+L,Lorie
+L,Lou
+LA,Lance Armstrong
+LA,Laverne Andrews
+LA,Lew Ayres
+LA,Lily Allen
+LA,Loni Anderson
+LA,Louie Anderson
+LA,Louis Armstrong
+LA,Louisa May Alcott
+LB,L.L. Bean
+LB,Lady Baden-Powell
+LB,Lance Bass
+LB,Larry Bird
+LB,Larry Byrd
+LB,Laura W. Bush
+LB,Lauren Bacall
+LB,LeVar Burton
+LB,Lenny Bruce
+LB,Leo Buscaglia
+LB,Leonard Bernstein
+LB,Les Brown
+LB,Lil Bow-Wow
+LB,Linda Blair
+LB,Lindsey Buckingham
+LB,Lizzie Borden
+LB,Lloyd Bridges
+LB,Lord Baden-Powell
+LB,Louis Braille
+LB,Louis Brandeis
+LB,Lucille Ball
+LB,Ludwig van Beethoven
+LB,Luis Buñuel
+LB,Luis Miguel Basteri
+LB,Luther Burbank
+LC,LL Cool-J
+LC,Larry Buster Crabbe
+LC,Larry the Cable-Guy
+LC,Lauren Collins
+LC,Lauren Conrad
+LC,Le Corbusier
+LC,Lee J. Cobb
+LC,Leo G. Carroll
+LC,Leonard Cohen
+LC,Leslie Caron
+LC,Lewis Carrol
+LC,Lewis Carroll
+LC,Lon Chaney
+LC,Lou Costello
+LC,Lynda Carter
+LC,Lynne Cheney
+LD,Landon Donovan
+LD,Larry David
+LD,Leonardo Da-Vinci
+LD,Leonardo DiCaprio
+LD,Leonardo da-Vinci
+LD,Les Dawson
+LE,Linda Ellerbee
+LE,Lisa Edelstein
+LF,Larry Fine
+LF,Larry Flynt
+LF,Laurence Fishburne
+LF,Lil Fizz
+LF,Lola Falana
+LF,Lou Ferrigno
+LF,Louis Farrakhan
+LF,Louise Fletcher
+LF,Lynn Fontanne
+LG,Lady Gaga
+LG,Larry the Cable Guy
+LG,Lee Gifford
+LG,Leo Gorcey
+LG,Liam Gallagher
+LG,Lillian Gish
+LG,Linda Gray
+LG,Lorne Greene
+LG,Lou Gehrig
+LG,Louis Gossett
+LG,Lowell George
+LH,L. Ron Hubbard
+LH,Langston Hughes
+LH,Larry Hagman
+LH,Lauren Hutton
+LH,Lena Horne
+LH,Linda Hamilton
+LH,Linda Hunt
+LH,Lionel Hampton
+LI,Lance Ito
+LI,Lee Iacocca
+LJ,LL Cool J
+LJ,LaToya Jackson
+LJ,Lady Bird Johnson
+LJ,Lebron James
+LJ,Louis Jourdan
+LJ,Lyndon B. Johnson
+LK,Larry King
+LK,Laszlo Kovacs
+LK,Lenny Kravitz
+LL,Lawrence Leritz
+LL,Lennox Lewis
+LL,Leona Lewis
+LL,Leslie Twiggy Lawson
+LL,Linda Lavin
+LL,Lindsay Lohan
+LL,Lisa Ling
+LL,Lois Lowry
+LL,Loretta Lynn
+LL,Lotte Lenya
+LL,Louis LAmour
+LL,Louis Leakey
+LL,Louise Lasser
+LL,Lucky Luciano
+LL,Lucy Lawless
+LL,Lucy Liu
+LL,Lyle Lovett
+LM,Lea Michele
+LM,Lee Majors
+LM,Lee Marvin
+LM,Leonard Maltin
+LM,Liliana Mumy
+LM,Linda McCartney
+LM,Liz McClarnon
+LM,Liza Minnelli
+LM,Lorin Maazel
+LM,Lorne Michaels
+LM,Louis Malle
+LN,Laraine Newman
+LN,Laura Nyro
+LN,Leonard Nimoy
+LN,Leonard Spock Nimoy
+LN,Leslie Nielsen
+LN,Liam Neeson
+LO,Larisa Oleynik
+LO,Laurence Olivier
+LO,Lee Harvey Oswald
+LO,Lena Olin
+LP,Leontyne Price
+LP,Les Paul
+LP,Linus Pauling
+LP,Liz Phair
+LP,Louis Pasteur
+LP,Louis Prima
+LP,Luciano Pavarotti
+LR,Lamont ShowBoat Robinson
+LR,LeAnn Rimes
+LR,Lee Remick
+LR,Leon Russell
+LR,Lil Romeo
+LR,Linda Ronstadt
+LR,Lionel Richie
+LR,Little Richard
+LR,Lou Reed
+LR,Louis Rukeyser
+LR,Luise Rainer
+LR,Lynn Redgrave
+LS,Lane Smith
+LS,Larry Storch
+LS,Laura Schlessinger
+LS,Layne Staley
+LS,Lea Salonga
+LS,Lee Strasberg
+LS,Leon Schotter
+LS,Leon Spinks
+LS,Leopold Stokowski
+LS,Lesley Stahl
+LS,Levi Strauss
+LS,Lizabeth Scott
+LS,Lord Snowdon
+LS,Loretta Swit
+LT,Lana Turner
+LT,Lauren Tewes
+LT,Lawrence Taylor
+LT,Lea Thompson
+LT,Lee Trevino
+LT,Leo Tolstoy
+LT,Leon Trotsky
+LT,Lily Tomlin
+LT,Linus Torvalds
+LT,Liv Tyler
+LT,Louis Comfort Tiffany
+LT,Lowell Thomas
+LT,Lucas Till
+LT,Lyle Talbot
+LU,Leslie Uggams
+LU,Liv Ullmann
+LV,Leonardo da Vinci
+LV,Ludwig van-Beethoven
+LV,Luther Vandross
+LW,Laura Wilkinson
+LW,Lawrence Welk
+LW,LeAnn Womack
+LW,Lech Walesa
+LW,Lesley Ann Warren
+LW,Lil Bow Wow
+LW,Lindsay Wagner
+LW,Loudon Wainwright
+LW,Lucinda Williams
+LW,Lyle Waggoner
+LY,Loretta Young
+M,Macaulay
+M,Madonna
+M,Meatloaf
+M,Michael
+M,Michelangelo
+M,MoNique
+M,Moby
+M,Morrissey
+M,Mozart
+MA,Madeleine Albright
+MA,Mahmoud Ahmadinejad
+MA,Marc Anthony
+MA,Marcus Allen
+MA,Marian Anderson
+MA,Marie Antoinette
+MA,Mario Andretti
+MA,Mary Kay Ash
+MA,Matthew Arnold
+MA,Maxene Andrews
+MA,Maya Angelou
+MA,Mel Allen
+MA,Mitch Albom
+MA,Mohammad Ali
+MA,Morey Amsterdam
+MA,Muhammad Ali
+MA,Mädchen Amick
+MB,Maria Bello
+MB,Marion Barry
+MB,Marlon Brando
+MB,Martin Balsam
+MB,Martin Brodeur
+MB,Martin Van Buren
+MB,Marty Balin
+MB,Mary J. Blige
+MB,Mason Betha
+MB,Matthew Broderick
+MB,Mel Blanc
+MB,Mel Brooks
+MB,Melvin Belli
+MB,Menachem Begin
+MB,Meredith Baxter
+MB,Michael Biehn
+MB,Michael Bloomberg
+MB,Michael Bolton
+MB,Michael Burger
+MB,Michelangelo Buonarroti
+MB,Michelle Branch
+MB,Mikhail Baryshnikov
+MB,Milton Berle
+MB,Monica Bellucci
+MC,M C
+MC,M. C.-Hammer
+MC,Macdonald Carey
+MC,Madame Curie
+MC,Madeleine Carroll
+MC,Marc Chagall
+MC,Maria Callas
+MC,Mariah Carey
+MC,Mario Cuomo
+MC,Mark Cuban
+MC,Mark Undertaker Callaway
+MC,Marva Collins
+MC,Mary Cassatt
+MC,Maurice Chevalier
+MC,Merce Cunningham
+MC,Michael Caine
+MC,Michael Chang
+MC,Michael Connelly
+MC,Michael Crawford
+MC,Michael Crichton
+MC,Mike Connors
+MC,Miley Cyrus
+MC,Montgomery Clift
+MD,Mac Davis
+MD,Mamie Van Doren
+MD,Marion Davies
+MD,Marlene Dietrich
+MD,Matt Damon
+MD,Matt Dillon
+MD,Michael Damian
+MD,Michael Dell
+MD,Michael Douglas
+MD,Michael Dukakis
+MD,Michael J. Dady
+MD,Micky Dolenz
+MD,Mike Dirnt
+MD,Mike Ditka
+MD,Mike Douglas
+MD,Miles Davis
+MD,Minnie Driver
+ME,M.C. Escher
+ME,Mama Cass Elliot
+ME,Mary Baker Eddy
+ME,Melissa Etheridge
+ME,Missy Elliott
+MF,Malcolm Forbes
+MF,Margot Fonteyn
+MF,Marty Feldman
+MF,Mary Frann
+MF,Matt Frewer
+MF,Mel Ferrer
+MF,Mia Farrow
+MF,Michael Flatley
+MF,Michael J. Fox
+MF,Mick Fleetwood
+MF,Mike Farrell
+MF,Millard Fillmore
+MF,Milos Forman
+MF,Milton Friedman
+MF,Morgan Freeman
+MG,Mahatma Gandhi
+MG,Mark Paul Gosselaar
+MG,Marla Gibbs
+MG,Martha Graham
+MG,Marvin Gaye
+MG,Matt Groening
+MG,Maxim Gorky
+MG,Megan Gale
+MG,Mel Gibson
+MG,Melanie Griffith
+MG,Melinda Gates
+MG,Merv Griffin
+MG,Michael Gross
+MG,Mickey Gilley
+MG,Mikhail Gorbachev
+MG,Mitzi Gaynor
+MG,Muammar Gadhafi
+MH,M. C. Hammer
+MH,M.C. Hammer
+MH,MC Hammer
+MH,Margaret Hamilton
+MH,Margaux Hemingway
+MH,Mariel Hemingway
+MH,Mariette Hartley
+MH,Marilu Henner
+MH,Mariska Hargitay
+MH,Mark Hamill
+MH,Mark Harmon
+MH,Martina Hingis
+MH,Marvin Hagler
+MH,Marvin Hamlisch
+MH,Mary Hopkin
+MH,Mata Hari
+MH,Matthew Henson
+MH,Melissa Joan Hart
+MH,Merle Haggard
+MH,Mia Hamm
+MH,Michael C. Hall
+MH,Mickey Hart
+MH,Milton Hershey
+MH,Miss Frances Horwich
+MH,Moe Howard
+MH,Monty Hall
+MH,Moss Hart
+MJ,Magic Johnson
+MJ,Mahalia Jackson
+MJ,Melissa Joan-Hart
+MJ,Michael J. Jordan
+MJ,Michael Jackson
+MJ,Michael Johnson
+MJ,Michael Jordan
+MJ,Mick Jagger
+MJ,Milla Jovovich
+MK,Madeline Kahn
+MK,Margot Kidder
+MK,Martin Luther King
+MK,Michael Keaton
+MK,Mila Kunis
+ML,Madeline LEngle
+ML,Margaret Leighton
+ML,Mario Lanza
+ML,Mario Lemieux
+ML,Mark Lester
+ML,Martin Landau
+ML,Martin Lawrence
+ML,Martin Luther
+ML,Mary Leakey
+ML,Matt Lauer
+ML,Maya Ying Lin
+ML,Meadowlark Lemon
+ML,Meat Loaf
+ML,Meriwether Lewis
+ML,Michael Landon
+ML,Michael Learned
+ML,Michael Lovesmith
+ML,Michel Legrand
+ML,Michele Lee
+ML,Myrna Loy
+MM,Malcolm McDowell
+MM,Mandy Moore
+MM,Marcel Marceau
+MM,Margaret Mead
+MM,Margaret Mitchell
+MM,Maria Montessori
+MM,Maria Muldaur
+MM,Marilyn McCoo
+MM,Marilyn Monroe
+MM,Mark Martin
+MM,Mark McGwire
+MM,Marlee Matlin
+MM,Marsha Mason
+MM,Marshall McLuhan
+MM,Martin Milner
+MM,Martin Mull
+MM,Martina McBride
+MM,Mary Martin
+MM,Mary Tyler Moore
+MM,Matthew McConaughey
+MM,Maureen McCormick
+MM,Melina Mercouri
+MM,Michael McDonald
+MM,Michael Michele
+MM,Michael Moore
+MM,Michael Moorer
+MM,Mickey Mantle
+MM,Mike Mills
+MM,Mike Modano
+MM,Miriam Makeba
+MM,Mitch Miller
+MM,Mitch Mitchell
+MM,Modest Mussorgsky
+MN,Michael Nesmith
+MN,Mike Nichols
+MO,Margaret OBrien
+MO,Marie Osmond
+MO,Mary-Kate Olsen
+MO,Maureen OHara
+MO,Merlin Olsen
+MO,Michelle Obama
+MP,Mandy Patinkin
+MP,Manny Pacquiao
+MP,Mario Puzo
+MP,Markie Post
+MP,Mary Kay Place
+MP,Mary Pickford
+MP,Master P
+MP,Matthew Perry
+MP,Maury Povich
+MP,Max Planck
+MP,Maxfield Parrish
+MP,Melvin Van Peebles
+MP,Michael Phelps
+MP,Michele Pfeiffer
+MP,Michelle Pfeiffer
+MP,Michelle Phillips
+MP,Mike Piazza
+MP,Minnie Pearl
+MQ,Marilyn Quayle
+MR,Mark Russell
+MR,Martha Raye
+MR,Mary Lou Retton
+MR,Maurice Ravel
+MR,Meg Ryan
+MR,Michael Richards
+MR,Mickey Rooney
+MR,Mickey Rourke
+MR,Mr. Rogers
+MS,M. Night Shyamalan
+MS,Mack Sennett
+MS,Maggie Smith
+MS,Marc Summers
+MS,Maria Sharapova
+MS,Marilyn Vos Savant
+MS,Mark Spitz
+MS,Martha Stewart
+MS,Martie Seidel
+MS,Martin Scorsese
+MS,Martin Sheen
+MS,Martin Short
+MS,Mary Queen of Scots
+MS,Mary Wollstonecraft Shelley
+MS,Maureen Stapleton
+MS,Maurice Sendak
+MS,Max Steiner
+MS,Max Von Sydow
+MS,McLean Stevenson
+MS,Meryl Streep
+MS,Michael Sheen
+MS,Mickey Spillane
+MS,Mike Schmidt
+MS,Mike Shinoda
+MS,Morley Safer
+MS,Mort Sahl
+MT,Mao Tse-tung
+MT,Margaret Thatcher
+MT,Maria Tallchief
+MT,Marisa Tomei
+MT,Mark Twain
+MT,Marlo Thomas
+MT,Mary Travers
+MT,Meg Tilly
+MT,Mel Tillis
+MT,Mel Torme
+MT,Meshach Taylor
+MT,Michael Tucker
+MT,Mike Tyson
+MT,Mother Teresa
+MT,Mr. T
+MT,Muzaffer Tema
+MV,Meredith Vieira
+MW,Madame C.J. Walker
+MW,Mae West
+MW,Malcolm-Jamal Warner
+MW,Marlon Wayans
+MW,Max Weinberg
+MW,Michael Waltrip
+MW,Michael Warren
+MW,Michelle Wright
+MW,Mike Wallace
+MW,Montel Williams
+MW,Muddy Waters
+MX,Malcolm X
+MY,Marvin Yagoda
+MY,Michael York
+MY,Michelle Yeoh
+MZ,Madeline Zima
+MZ,Mark Zuckerberg
+MZ,Moon Unit Zappa
+N,Napolenon
+N,Napoleon
+N,Nostradamus
+NA,Neil Armstrong
+NB,Napolean Bonepart
+NB,Napoleon Bonaparte
+NB,Napoleon Bonepart
+NB,Natasha Bedingfield
+NB,Ned Beatty
+NB,Nicholas Brendon
+NB,Nicole Bass
+NB,Nicole Bobek
+NB,Niels Bohr
+NB,Notorious BIG
+NC,Nadia Comaneci
+NC,Nat King Cole
+NC,Natalie Cole
+NC,Nathaniel Currier
+NC,Nell Carter
+NC,Neve Campbell
+NC,Nick Carter
+NC,Nick Cave
+NC,Nicolas Cage
+NC,Noël Coward
+ND,Napolean Dynomite
+ND,Neil Diamond
+NE,Nelson Eddy
+NE,Nick Van Excel
+NE,Nicole Eggert
+NE,Nora Ephron
+NF,Nanette Fabray
+NF,Nathan Bedford Forrest
+NF,Nina Foch
+NG,Nancy Grace
+NG,Nancy Lee Grahn
+NG,Newt Gingrich
+NG,Noel Gallagher
+NG,Nomar Garciapara
+NH,Naseem Hamed
+NH,Nathaniel Hawthorne
+NH,Neil Harris
+NH,Nick Hexum
+NH,Norm Hitzges
+NJ,Naomi Judd
+NJ,Nick Jonas
+NJ,Norah Jones
+NJ,Norman Jewison
+NK,Nastassia Kinski
+NK,Nat King-Cole
+NK,Nicole Kidman
+NK,Nik Kershaw
+NK,Nikita Khrushchev
+NK,Nikos Kazantzakis
+NL,Nancy Lopez
+NL,Nick Lachey
+NL,Norman Lear
+NM,Nana Mouskouri
+NM,Nancy McKeon
+NM,Nelson Mandela
+NM,Niccolo Machiavelli
+NM,Nick Mason
+NM,Nikki Taylor Melton
+NM,Norm MacDonald
+NM,Norm Macdonald
+NM,Norman Mailer
+NN,Nate Newton
+NN,Nichelle Nichols
+NN,Nick Nolte
+NP,Natalie Portman
+NP,Neal Peart
+NP,Nelson Piquet
+NR,Nancy Reagan
+NR,Nelson Riddle
+NR,Nipsey Russell
+NR,Nolan Ryan
+NR,Norman Rockwell
+NS,Nancy Sinatra
+NS,Neil Sedaka
+NS,Neil Simon
+NS,Nicolas Sarkozy
+NS,Nigel Short
+NS,Nina Simone
+NS,Noel Paul Stookey
+NS,Norman Schwarzkopf
+NT,Niki Taylor
+NT,Nikki Taylor
+NT,Nikola Tesla
+NV,Nick Van-Excel
+NW,N.C. Wyeth
+NW,Nancy Walker
+NW,Nancy Wilson
+NW,Natalie Wood
+NW,Nicol Williamson
+NW,Noah Webster
+NY,Neil Young
+O,Odetta
+OA,Orphan Annie
+OB,Omar Bradley
+OB,Orlando Bloom
+OB,Orson Bean
+OB,Osama Bin-Laden
+OB,Osama bin-Laden
+OB,Otto von Bismarck
+OC,Oleg Cassini
+OC,Oliver Cromwell
+OC,Ornette Coleman
+OD,Olivia DeHavilland
+OD,Oscar DeLaHoya
+OD,Oscar Delahoya
+OD,Ossie Davis
+OE,Omar Epps
+OG,Oscar the Grouch
+OH,O. Henry
+OH,Oliver Hardy
+OH,Olivia Hussey
+OH,Oscar De La Hoya
+OH,Oscar Hammerstein
+OH,Owen Hart
+OK,Obi-Wan Kenobi
+OK,Olga Korbut
+OK,Otto Klemperer
+OL,Osama Bin Laden
+OL,Osama bin Laden
+OL,Oscar Levant
+ON,Ogden Nash
+ON,Oliver North
+ON,Ozzie Nelson
+OO,Ozzie Ozbourne
+OO,Ozzy Osbourne
+OP,Otto Preminger
+OR,Otis Redding
+OS,O.J. Simpson
+OS,OJ Simpson
+OS,Oliver Stone
+OS,Omar Sharif
+OS,Oscar Schindler
+OW,Obi Wan-Kenobi
+OW,Oprah Winfrey
+OW,Orson Welles
+OW,Orville Wright
+OW,Oscar Wilde
+OW,Oskar Werner
+P,Pat
+P,Pel?
+P,Pele
+P,Pelé
+P,Perlman
+P,Phoenix
+P,Pink
+P,Plato
+P,Prince
+PA,Pam Ayres
+PA,Pamela Anderson
+PA,Patricia Arquette
+PA,Patty Andrews
+PA,Paul Anka
+PA,Paula Abdul
+PA,Philip Ahn
+PA,Philip Austin
+PB,P.T. Barnum
+PB,Pat Buchanan
+PB,Pat Buttram
+PB,Paul Bear Bryant
+PB,Pavel Bure
+PB,Pearl Bailey
+PB,Pearl S. Buck
+PB,Peter Benchley
+PB,Peter Bergman
+PB,Peter Bogdanovich
+PB,Peter Boyle
+PB,Pierce Brosnan
+PB,Polly Bergen
+PB,Pope Benedict
+PC,Pat Carroll
+PC,Patrick Carney
+PC,Patsy Cline
+PC,Paul Cezanne
+PC,Peggy Cass
+PC,Penelope Cruz
+PC,Perry Como
+PC,Peter Criss
+PC,Peter Cushing
+PC,Petula Clark
+PC,Phil Collins
+PC,Pierre Cardin
+PC,Princess Caroline
+PD,Pam Dawber
+PD,Patrick Dempsey
+PD,Patrick Duffy
+PD,Paul Desmond
+PD,Paula Deen
+PD,Phil Donahue
+PD,Phyllis Diller
+PD,Placido Domingo
+PD,Princess Diana
+PE,Patrick Ewing
+PE,Paul Erlich
+PE,Phil Everly
+PE,Prince Edward
+PF,Paul Ford
+PF,Peggy Fleming
+PF,Peter Falk
+PF,Peter Fonda
+PF,Peter Frampton
+PG,Paul Gauguin
+PG,Peter Gallagher
+PG,Peter Graves
+PG,Phyllis George
+PH,Paris Hilton
+PH,Pat Harrington
+PH,Patricia Heaton
+PH,Patrick Henry
+PH,Patty Hearst
+PH,Paul Bono Hewson
+PH,Paul Harvey
+PH,Paul Henreid
+PH,Paul Hogan
+PH,Pee-Wee Herman
+PH,Philip Seymour Hoffman
+PI,Phil Ivey
+PJ,Peter Jennings
+PK,Patsy Kensit
+PK,Paul Kantner
+PK,Pauline Kael
+PL,Patti LaBelle
+PL,Paul Lynde
+PL,Peggy Lee
+PL,Peggy Lipton
+PL,Percival Lowell
+PL,Peter Lorre
+PL,Phil Lesh
+PL,Phill Lewis
+PL,Piper Laurie
+PM,Pamela Mason
+PM,Pamela Sue Martin
+PM,Pat Morita
+PM,Patrick McGoohan
+PM,Paul Mazursky
+PM,Paul McCartney
+PM,Paul McCrane
+PM,Paul Miles
+PM,Penny Marshall
+PM,Peter Marshall
+PM,Peter Max
+PM,Peyton Manning
+PM,Phil Mahre
+PM,Piers Morgan
+PM,Piet Mondriaan
+PN,Pablo Neruda
+PN,Pat Nixon
+PN,Patricia Neal
+PN,Paul Newman
+PN,Peter Nero
+PN,Peter Noone
+PN,Phyllis Newman
+PO,Pat OBrien
+PO,Peter OToole
+PP,Pablo Picasso
+PP,Pablo Piccaso
+PP,Paloma Picasso
+PP,Pat Paulsen
+PP,Patti Page
+PP,Paul Petersen
+PP,Paula Prentiss
+PP,Pauley Perrette
+PP,Paulina Porizkova
+PP,Phil Proctor
+PP,Philippe Petit
+PP,Pope John Paul
+PP,Priscilla Presley
+PR,Pat Riley
+PR,Patrick Roy
+PR,Paul Pee-wee Herman Reubens
+PR,Paul Reiser
+PR,Paul Revere
+PR,Paul Robeson
+PR,Paul Rudd
+PR,Pernell Roberts
+PR,Pete Rose
+PR,Pete Rozelle
+PR,Phil Rizzuto
+PR,Phylicia Rashad
+PS,Pat Sajak
+PS,Pat Summeral
+PS,Pat Summerall
+PS,Patrick Stewart
+PS,Patrick Stump
+PS,Patrick Swayze
+PS,Patti Smith
+PS,Paul Scofield
+PS,Paul Shaffer
+PS,Paul Simon
+PS,Paul Stanley
+PS,Pauly Shore
+PS,Percy Bysshe Shelley
+PS,Pete Sampras
+PS,Pete Seeger
+PS,Peter Scolari
+PS,Peter Sellers
+PS,Phil Silvers
+PS,Phil Spector
+PS,Phoebe Snow
+PS,Phyllis Schlafly
+PS,Picabo Street
+PS,Pierre Salinger
+PS,Preston Sturges
+PS,Princess Stephanie
+PT,Pamela Tiffin
+PT,Paul Taylor
+PT,Paul Tibbets
+PT,Pete Townshend
+PT,Peter Tork
+PT,Piotr Ilyich Tchaikovsky
+PU,Peter Ustinov
+PV,Paul Verhoeven
+PW,Paul Williams
+PW,Paul Winchell
+PW,Paul Winfield
+PW,Peta Wilson
+PW,Prince William
+PY,Peter Yarrow
+PZ,Pia Zadora
+Q,Quintanilla
+QE,Queen Elizabeth
+QJ,Queen Juliana
+QJ,Quincy Jones
+QL,Queen Latifah
+QT,Quentin Tarantino
+R,Rawls
+R,Rhea
+R,Richard
+R,Rihanna
+R,River
+R,Rock
+R,Rod
+R,Ronaldinho
+R,Roseanne
+R,RuPaul
+RA,Ralph Abernathy
+RA,Rene Auberjonois
+RA,Roald Amundsen
+RA,Robert Altman
+RA,Roone Arledge
+RA,Rosanna Arquette
+RA,Roscoe Fatty Arbuckle
+RA,Rowan Atkinson
+RA,Roy Acuff
+RB,Ralph Bellamy
+RB,Ralph Bunche
+RB,Ray Bolger
+RB,Ray Bradbury
+RB,Raymond Burr
+RB,Raz B
+RB,Red Barber
+RB,Red Buttons
+RB,Richard Benjamin
+RB,Richard Burton
+RB,Robby Benson
+RB,Robert Benchley
+RB,Robert Blake
+RB,Robert Burns
+RB,Roberto Gomez Bolaños
+RB,Roger Bannister
+RB,Rona Barrett
+RB,Roscoe Lee Browne
+RB,Russell Baker
+RB,Ruth Buzzi
+RC,Ray Charles
+RC,Raymond Chandler
+RC,Rich Cronin
+RC,Richard Carpenter
+RC,Richard Crenna
+RC,Rita Coolidge
+RC,Rivers Cuomo
+RC,Robbie Coltrane
+RC,Robert Carlyle
+RC,Robert Caro
+RC,Robert Chapin
+RC,Robert Conrad
+RC,Robert Cray
+RC,Robert Culp
+RC,Robert Cummings
+RC,Robert N. Cronk
+RC,Rocky Colavito
+RC,Roger Clemens
+RC,Roger Corman
+RC,Ronald Colman
+RC,Rory Calhoun
+RC,Rosalynn Carter
+RC,Rosanne Cash
+RC,Rosemary Clooney
+RC,Roy Clark
+RC,Russell Crowe
+RD,Ray Davies
+RD,Rene Descartes
+RD,Richard Dawson
+RD,Richard Dreyfuss
+RD,Roald Dahl
+RD,Rob Van Dam
+RD,Robert De-Niro
+RD,Robert Deniro
+RD,Robert Downey
+RD,Robert Duvall
+RD,Roger Daltrey
+RD,Ronnie James Dio
+RD,Rosemary DeCamp
+RD,Ruby Dee
+RE,Ralph Edwards
+RE,Ralph Ellison
+RE,Ralph W. Emerson
+RE,Richard Engel
+RE,Robert Englund
+RE,Robert Evans
+RE,Roger Ebert
+RF,Redd Foxx
+RF,Reverend Jerry Falwell
+RF,Rhonda Fleming
+RF,Ric Flair
+RF,Richard Fleischer
+RF,Robert Frost
+RF,Robert Fulton
+RF,Roberta Flack
+RF,Roger Federer
+RF,Rollie Fingers
+RF,Ron Foos
+RG,Ray Goulding
+RG,Ray Guy
+RG,Richard Gephardt
+RG,Richard Gere
+RG,Robert Goulet
+RG,Robert Guillaume
+RG,Robin Gibb
+RG,Robin Givens
+RG,Ron Glass
+RG,Rube Goldberg
+RG,Rudi Gernreich
+RG,Rudolph Giuliani
+RG,Rupert Grint
+RG,Ruth Gordon
+RH,Rex Harrison
+RH,Richard Harris
+RH,Rita Hayworth
+RH,Robert Heinlein
+RH,Rock Hudson
+RH,Rolf Harris
+RH,Ron Howard
+RH,Roy Horn
+RH,Rutger Hauer
+RJ,Randy Johnson
+RJ,Raul Julia
+RJ,Reggie Jackson
+RJ,Richard Jaeckel
+RJ,Rick James
+RJ,Robert Downey Jr
+RJ,Robert Johnson
+RK,R. Kelly
+RK,Ray Kroc
+RK,Robby Krieger
+RK,Robert F. Kennedy
+RK,Robert Klein
+RK,Rose Kennedy
+RK,Ruby Keeler
+RK,Rudyard Kipling
+RK,Ryan Key
+RL,R.D. Laing
+RL,Ralph Lauren
+RL,Ramsey Lewis
+RL,Ray Liotta
+RL,Richard Leakey
+RL,Richard Lewis
+RL,Ricki Lake
+RL,Rob Lowe
+RL,Robe Lowe
+RL,Robert E. Lee
+RL,Robert Ludlum
+RL,Robin Leach
+RL,Roy Lichtenstein
+RL,Rush Limbaugh
+RM,Ralph Macchio
+RM,Randolph Mantooth
+RM,Ray Manzarek
+RM,Ray Milland
+RM,Reba McEntire
+RM,Rene Magritte
+RM,Rey Mysterio
+RM,Ricardo Montalban
+RM,Richard Moll
+RM,Rik Mayall
+RM,Rita Moreno
+RM,Rob Morrow
+RM,Robert Merrill
+RM,Robert Mitchum
+RM,Robert Morley
+RM,Robert Morse
+RM,Robert Mugabe
+RM,Rocky Marciano
+RM,Roddy McDowall
+RM,Roger Maris
+RM,Roger Miller
+RM,Roger Moore
+RM,Roger Mudd
+RM,Roland Hussey Macy
+RM,Ron Moody
+RM,Ronnie Milsap
+RM,Rose Marie
+RM,Rue McClanahan
+RM,Rupert Murdoch
+RM,Russell Means
+RM,Ryan Merriman
+RN,Ralph Nader
+RN,Randy Newman
+RN,Richard Nixon
+RN,Rick Nelson
+RN,Robert De Niro
+RN,Rudolf Nureyev
+RN,Ruud Van Nistelrooy
+RO,Randy Orton
+RO,Ronn Owens
+RO,Rosie ODonnell
+RO,Roy Orbison
+RO,Ryan ONeal
+RP,Ray Parker
+RP,Ray Price
+RP,Regis Philbin
+RP,Richard Petty
+RP,Richard Pryor
+RP,Robert E. Peary
+RP,Robert Palmer
+RP,Robert Parrish
+RP,Robert Plant
+RP,Robert Powell
+RP,Robert Preston
+RP,Roman Polanski
+RP,Ron Horshack Palillo
+RP,Rosa Parks
+RP,Rosie Perez
+RP,Ross Perot
+RQ,Randy Quaid
+RQ,Robin Quivers
+RR,Rachael Ray
+RR,Rachel Ray
+RR,Ralph Richardson
+RR,Ray Romano
+RR,Rene Russo
+RR,Rex Reed
+RR,Richard Rodgers
+RR,Richard Roundtree
+RR,Rick Rockwell
+RR,Rick Rubin
+RR,Rob Reiner
+RR,Robert Redford
+RR,Robert Reed
+RR,Robert Ripley
+RR,Ronald Reagan
+RR,Rosalind Russell
+RR,Roy Rogers
+RS,R.L. Stine
+RS,Rachel Stevens
+RS,Raven Symoné
+RS,Ravi Shankar
+RS,Richard Red Skelton
+RS,Richard Simmons
+RS,Rick Schroder
+RS,Rick Springfield
+RS,Riley Smith
+RS,Ringo Starr
+RS,Robert Shaw
+RS,Robert Smith
+RS,Robert Stack
+RS,Rod Serling
+RS,Rod Steiger
+RS,Rod Stewart
+RS,Roger Staubach
+RS,Roy Scheider
+RS,Ryan Seacrest
+RT,Randy Travis
+RT,Redi Tlhabi
+RT,Richard Thomas
+RT,Rip Torn
+RT,Robby Takac
+RT,Robert Toth
+RT,Robin Trower
+RT,Rod Taylor
+RT,Roger Taylor
+RT,Rozonda Chilli Thomas
+RT,Russ Tamblyn
+RU,Robert Urich
+RV,Ritchie Valens
+RV,Robert Vaughn
+RV,Rudolph Valentino
+RV,Rudy Vallee
+RW,Rachel Weisz
+RW,Rainn Wilson
+RW,Raoul Wallenberg
+RW,Raquel Welch
+RW,Ray Walston
+RW,Reese Witherspoon
+RW,Richard Wagner
+RW,Richard Widmark
+RW,Richard Wright
+RW,Rick Warren
+RW,Rick Wright
+RW,Robert Wadlow
+RW,Robert Wagner
+RW,Robin Williams
+RW,Roger Waters
+RW,Ron Wood
+RW,Rumer Willis
+RW,Russell Wong
+RW,Ruth Westheimer
+RY,Robert Young
+RY,Robin Yount
+RZ,Renee Zellweger
+RZ,Renée Zellweger
+RZ,Rob Zombie
+RZ,Robert Zemeckis
+S,Sade
+S,Santa
+S,Santana
+S,Seal
+S,Selena
+S,Shaggy
+S,Shakira
+S,Sinbad
+S,Sisqo
+S,Slash
+S,Spiderman
+S,Superman
+S,Swain
+SA,Sam Adams
+SA,Sholem Aleichem
+SA,Sparky Anderson
+SA,Spiro Agnew
+SA,Sri Aurobindo
+SA,Steve Allen
+SA,Steve Austin
+SA,Stone Cold Steve Austin
+SA,Susan Anton
+SA,Susan B. Anthony
+SB,Sabrina Bryan
+SB,Samuel Barber
+SB,Samuel Beckett
+SB,Sandra Bernhard
+SB,Sandra Bullock
+SB,Sarah Bernhardt
+SB,Saul Bellow
+SB,Scott Bairstow
+SB,Scott Bakula
+SB,Shelley Berman
+SB,Shirley Bassey
+SB,Shirley Booth
+SB,Shirley Temple Black
+SB,Simon Bolivar
+SB,Sir Francis Bacon
+SB,Sonny Bono
+SB,Sophia Bush
+SB,Soulja Boy
+SB,Spring Byington
+SB,Steve Burns
+SB,Steven Bochco
+SB,Susan Boyle
+SB,Suzy Bogguss
+SB,Syd Barrett
+SC,Sam Cooke
+SC,Samuel Colt
+SC,Santa Claus
+SC,Sarah Chalke
+SC,Scatman Crothers
+SC,Sean Connery
+SC,Shaun Cassidy
+SC,Shemekia Copeland
+SC,Sheryl Crow
+SC,Sid Caesar
+SC,Sidney Crosby
+SC,Simon Cowell
+SC,Solanus Casey
+SC,Stephen Crane
+SC,Steve Carell
+SC,Steve Carlton
+SC,Stockard Channing
+SC,Stone Cold
+SC,Stu Cook
+SD,Salvador Dali
+SD,Sam Donaldson
+SD,Sammy Davis
+SD,Sandra Day-OConnor
+SD,Sandra Dee
+SD,Sandy Dennis
+SD,Sandy Duncan
+SD,Shannen Doherty
+SD,Shelley Duvall
+SD,Snoop Dogg
+SD,Susan Dey
+SE,Sam Elliot
+SE,Sam Elliott
+SE,Samantha Eggar
+SE,Sheena Easton
+SE,Sheila E.
+SE,Sir Edward Elgar
+SF,Sally Field
+SF,Shelley Fabares
+SF,Sherilyn Fenn
+SF,Siegfried Fischbacher
+SF,Sigmund Freud
+SF,Stacy Ferguson
+SF,Stan Freberg
+SG,Sarah Michelle Gellar
+SG,Scott Glenn
+SG,Seth Green
+SG,Sharon Gless
+SG,Shecky Greene
+SG,Spalding Gray
+SG,Steve Garvey
+SG,Steve Guttenberg
+SG,Steve Guttenburg
+SG,Stewart Granger
+SG,Summer Glau
+SH,Saddam Hussein
+SH,Salma Hayek
+SH,Sam Harris
+SH,Sammy Hagar
+SH,Samuel Lightnin Hopkins
+SH,Scott Hamilton
+SH,Screamin' Jay Hawkins
+SH,Sean Hannity
+SH,Shemp Howard
+SH,Sherlock Holmes
+SH,Sherman Hemsley
+SH,Sir Edmund Hillary
+SH,Skitch Henderson
+SH,Sonja Henie
+SH,Stephen Harper
+SH,Stephen Hawking
+SH,Stephen Hendry
+SH,Sterling Holloway
+SH,Steve Hackett
+SH,Susan Hayward
+SH,Susanna Hoffs
+SI,Steve Crocodile Hunter Irwin
+SI,Steve Irwin
+SJ,Samuel L. Jackson
+SJ,Scarlett Johansson
+SJ,Scott Joplin
+SJ,Shawn Johnson
+SJ,Shirley Jackson
+SJ,Shirley Jones
+SJ,Spike Jones
+SJ,Stephan Jenkins
+SJ,Steve Jobs
+SJ,Steven Jobs
+SJ,Stonewall Jackson
+SJ,Susan Saint James
+SK,Sally Kellerman
+SK,Sam Kinison
+SK,Sandy Koufax
+SK,Stacy Keach
+SK,Stan Kenton
+SK,Stanley Kramer
+SK,Stanley Kubrick
+SK,Stanley Kunitz
+SK,Stephen King
+SK,Suge Knight
+SK,Swoosie Kurtz
+SL,Sam Levenson
+SL,Shari Lewis
+SL,Sheldon Leonard
+SL,Shelley Long
+SL,Shia LaBeouf
+SL,Sidney Lumet
+SL,Sinclair Lewis
+SL,Sophia Loren
+SL,Spike Lee
+SL,Stan Laurel
+SL,Steve Lawrence
+SL,Steven Anthony Lawrence
+SL,Sugar Ray Leonard
+SL,Susan Lucci
+SM,Sal Mineo
+SM,Samuel Morse
+SM,Sarah McLachlan
+SM,Sarah Miles
+SM,Senator Joseph McCarthy
+SM,Sergio Mendes
+SM,Shane MacGowan
+SM,Shawn Michaels
+SM,Sheila MacRae
+SM,Shigeru Miyamoto
+SM,Shirley MacLaine
+SM,Sofia Milos
+SM,Spider Man
+SM,Stan Mikita
+SM,Stan Musial
+SM,Steve Mahre
+SM,Steve Marriott
+SM,Steve Martin
+SM,Steve McQueen
+SM,Stuart Mathis
+SM,Sun Myung Moon
+SM,Super Man
+SN,Sir Isaac Newton
+SN,Sister Nivedita
+SN,Steve Nash
+SN,Stevie Nicks
+SO,Sandra Day OConnor
+SO,Sandra Oh
+SO,Seiji Ozawa
+SO,Shaquille Oneil
+SO,Sharon Osbourne
+SO,Shuggie Otis
+SO,Sir Laurence Olivier
+SO,Suleman octuplets
+SP,S.J. Perelman
+SP,Sam Peckinpah
+SP,Sarah Jessica Parker
+SP,Sarah Palin
+SP,Scottie Pippen
+SP,Sean Penn
+SP,Sergei Prokofiev
+SP,Sidney Poitier
+SP,Slim Pickens
+SP,Spencer Pratt
+SP,Stefanie Powers
+SP,Steve Perry
+SP,Susan Perabo
+SP,Suzanne Pleshette
+SR,Sally Jessy Raphael
+SR,Sally Rand
+SR,Salman Rushdie
+SR,Sam Rodia
+SR,Sergei Rachmaninoff
+SR,Seth Rogen
+SR,Sheriff John Rovick
+SR,Sir Cliff Richard
+SR,Smokey Robinson
+SR,Sugar Ray Robinson
+SS,Sam Shepard
+SS,Sammy Sosa
+SS,Schim Schimmel
+SS,Sharon Stone
+SS,Shawn Stockman
+SS,Sheryl Swoopes
+SS,Sidney Sheldon
+SS,Simone Signoret
+SS,Sissy Spacek
+SS,Sly Stone
+SS,Sonia Sotomayor
+SS,Soupy Sales
+SS,Stella Stevens
+SS,Stephen Sondheim
+SS,Stephen Stills
+SS,Steven Seagal
+SS,Steven Segal
+SS,Steven Spielberg
+SS,Steven Spielburg
+SS,Sully Sullenberger
+SS,Susan Sarandon
+SS,Susan Sontag
+SS,Susan Strasberg
+SS,Suzanne Somers
+ST,Shania Twain
+ST,Shirley Temple
+ST,Sophie Tucker
+ST,Spencer Tracy
+ST,Steven Tyler
+ST,Strom Thurmond
+ST,Susan Tedeschi
+SU,Stu Unger
+SV,Sarah Vaughan
+SV,Sid Vicious
+SV,Swami Vivekananda
+SW,Sam Walton
+SW,Sam Waterston
+SW,Sam Worthington
+SW,Serena Williams
+SW,Shane West
+SW,Shaun White
+SW,Shawn Wayans
+SW,Shelley Winters
+SW,Sigourney Weaver
+SW,Simon Wiesenthal
+SW,Steve Winwood
+SW,Steve Wozniak
+SW,Steven Wright
+SW,Stevie Wonder
+SY,Steve Young
+SY,Steve Yzerman
+SY,Susannah York
+T,Timbaland
+T,Timothy
+TA,Taro Aso
+TA,Taylor Abrahamse
+TA,Tim Allen
+TA,Tom Arnold
+TA,Tori Amos
+TA,Tracy Austin
+TA,Troy Aikman
+TB,Tammy Faye Bakker
+TB,Tempestt Bledsoe
+TB,Teresa Brewer
+TB,Terry Bradshaw
+TB,Theodore Bikel
+TB,Tim Burton
+TB,Timothy Bottoms
+TB,Tina Barrett
+TB,Todd Bridges
+TB,Tom Bergeron
+TB,Tom Bosley
+TB,Tom Brady
+TB,Tom Brokaw
+TB,Tony Bennett
+TB,Tony Blair
+TB,Tyra Banks
+TB,Tyson Beckford
+TC,Ted Cassidy
+TC,Tia Carrere
+TC,Tim Conway
+TC,Tim Curry
+TC,Tom Clancy
+TC,Tom Courtenay
+TC,Tom Cruise
+TC,Tommy Chong
+TC,Tony Curtis
+TC,Truman Capote
+TC,Ty Cobb
+TD,Ted Danson
+TD,Timothy Dalton
+TD,Tom Dreesen
+TD,Tommy Dorsey
+TD,Tony Danza
+TD,Tony Dow
+TD,Troy Donahue
+TD,Tyne Daly
+TE,T.S. Eliot
+TE,Thomas Edison
+TE,Tom Ewell
+TF,Tom Fogerty
+TG,Tammy Grimes
+TG,Teri Garr
+TG,Thomas Gainsborough
+TG,Tipper Gore
+TG,Tony Gwynn
+TG,Tracey Gold
+TH,Tab Hunter
+TH,Taylor Hicks
+TH,Teri Hatcher
+TH,Tippi Hedren
+TH,Tom Hanks
+TH,Tom Hulce
+TH,Tom T. Hall
+TH,Tony Hawk
+TI,Tony Iommi
+TJ,Thomas Jefferson
+TJ,Thomas Stonewall Jackson
+TJ,Tom Jones
+TJ,Tommy Lee Jones
+TK,Ted Knight
+TK,Ted Koppel
+TK,Thomas Kinkade
+TK,Toby Keith
+TL,Timothy Leary
+TL,Tina Louise
+TL,Tom Lester
+TL,Tom Leykis
+TL,Tommy Lasorda
+TL,Tommy Lee
+TL,Trini Lopez
+TM,Ted Mack
+TM,Teena Marie
+TM,Thelonious Monk
+TM,Thomas Mann
+TM,Thomas Merton
+TM,Thurgood Marshall
+TM,Tim Matheson
+TM,Tim McGraw
+TM,Tino Martinez
+TM,Tom Mix
+TM,Toni Morrison
+TM,Toshiro Mifune
+TM,Tracy Morgan
+TM,Tug McGraw
+TO,Tony Orlando
+TP,Teddy Pendergrass
+TP,Tom Petty
+TP,Tom Poston
+TP,Tyler Perry
+TP,Tyrone Power
+TR,Tanya Roberts
+TR,Tara Reid
+TR,Tex Ritter
+TR,The Rock
+TR,Theodore Roosevelt
+TR,Tim Reid
+TR,Tim Rice
+TR,Tim Robbins
+TR,Tim Russert
+TR,Todd Rundgren
+TR,Tony Randall
+TR,Tony Richardson
+TR,Tony Robbins
+TR,Tony Roberts
+TR,Tony Romo
+TS,Talia Shire
+TS,Tavis Smiley
+TS,Taylor Swift
+TS,Telly Savalas
+TS,Terrence Stamp
+TS,Terry Southern
+TS,Thomas Sowell
+TS,Tilda Swinton
+TS,Tom Scholz
+TS,Tom Seaver
+TS,Tom Selleck
+TS,Tom Smothers
+TS,Tom Snyder
+TS,Tom Stoppard
+TS,Tommy Shaw
+TS,Tony Shalhoub
+TS,Tony Soprano
+TS,Türkan Soray
+TT,Tanya Tucker
+TT,Ted Turner
+TT,Teresa Teng
+TT,Tiffani Amber Thiessen
+TT,Tina Turner
+TT,Tiny Tim
+TT,Tom Thumb
+TT,Tommy Tune
+TT,Toni Tennille
+TT,Travis Tritt
+TT,Twyla Tharp
+TU,Tracey Ullman
+TW,Tammy Wynette
+TW,Ted Williams
+TW,Tiger Woods
+TW,Tionne T-Boz Watkins
+TW,Tom Waits
+TW,Tom Watson
+TW,Tom Welling
+TW,Tuesday Weld
+TY,Tina Yothers
+TY,Trisha Yearwood
+TZ,Tay Zonday
+U,Undertaker
+U,Usher
+UA,Ursula Andress
+UB,Usain Bolt
+UG,Ulysses S. Grant
+UI,Ub Iwerks
+US,Upton Sinclair
+UT,Uma Thurman
+V,Vera-Ellen
+VA,Vanessa Amorosi
+VB,Valerie Bertinelli
+VB,Victor Borge
+VB,Victoria Beckham
+VC,Van Cliburn
+VC,Vanessa Carlton
+VC,Vikki Carr
+VD,Vic Damone
+VE,Vera Ellen
+VF,Victor Fleming
+VF,Vincente Fox
+VG,Vince Gill
+VG,Vincent Gallo
+VG,Vincent Van Gogh
+VG,Virgil Gus Grissom
+VG,Vittorio Gassman
+VH,Valerie Harper
+VH,Veronica Hamel
+VH,Victor Hugo
+VH,Vladimir Horowitz
+VJ,Van Johnson
+VJ,Victoria Jackson
+VK,Val Kilmer
+VL,Veronica Lake
+VL,Vicki Lawrence
+VL,Vince Lombardi
+VL,Vivien Leigh
+VM,Van Morrison
+VM,Vanessa Minnillo
+VM,Vaughn Monroe
+VM,Vera Miles
+VM,Vic Morrow
+VM,Victor Mature
+VM,Viggo Mortensen
+VM,Vince McMahon
+VN,Vince Neil
+VN,Vladimir Nabokov
+VP,Valerie Perrine
+VP,Van Dyke Parks
+VP,Vincent Price
+VP,Vladimir Putin
+VR,Vanessa Redgrave
+VR,Ving Rhames
+VS,Vidal Sassoon
+VS,Vijay Singh
+VS,Vin Scully
+VT,Verne Mini-Me Troyer
+VT,Vic Tayback
+VV,Vince Vaughn
+VV,Vincent Van-Gogh
+VV,Vivian Vance
+VW,Vanessa Williams
+VW,Vanna White
+VW,Venus Williams
+VW,Virginia Woolf
+VY,Vince Young
+WA,Will I Am
+WA,Woody Allen
+WB,Wally Bronner
+WB,Walter Brennan
+WB,Ward Bond
+WB,Warren Beatty
+WB,Warren Buffett
+WB,Wernher Von Braun
+WB,Wild Bill
+WB,Wilford Brimley
+WB,William Beaumont
+WB,William Bendix
+WB,William Burroughs
+WB,William F. Buckley
+WC,Wally Cox
+WC,Walter Cronkite
+WC,Will Clark
+WC,William Buffalo Bill Cody
+WC,William Casey
+WC,William Clark
+WC,William Conrad
+WC,Wilt Chamberlain
+WC,Winston Churchill
+WD,W.E.B. DuBois
+WD,Wade Dominguez
+WD,Walt Disney
+WD,William Daniels
+WD,Willy DeVille
+WE,Wyatt Earp
+WF,W.C. Fields
+WF,Will Ferrell
+WF,William Faulkner
+WF,William Frawley
+WF,William Friedkin
+WG,Wayne Gretzky
+WG,Whoopi Goldberg
+WG,William Gilbert
+WG,William Goldman
+WG,Woody Guthrie
+WH,Warren G. Harding
+WH,Whitney Houston
+WH,Wild Bill Hickok
+WH,William Hanna
+WH,William Harvey
+WH,William Holden
+WH,William Hurt
+WH,William S. Hart
+WH,Woody Harrelson
+WI,Washington Irving
+WI,Will I-Am
+WJ,Waylon Jennings
+WJ,William James
+WJ,Wolfman Jack
+WK,Wassily Kandinsky
+WM,Walter Matthau
+WM,Walter Mondale
+WM,Warren Moon
+WM,Wendy Moniz
+WM,Willey Mays
+WM,William H. Macy
+WM,William McKinley
+WM,Willie Mays
+WM,Wink Martindale
+WM,Wolfgang Amadeus Mozart
+WN,Wayne Newton
+WN,Willie Nelson
+WO,Warren Oates
+WP,William Penn
+WP,Wilson Pickett
+WP,Wolfgang Puck
+WR,Wayne Rogers
+WR,Will Rogers
+WR,Willie P. Richardson
+WR,Winona Ryder
+WS,Wallace Shawn
+WS,Wallis Simpson
+WS,Wes Studi
+WS,Wesley Snipes
+WS,Will Smith
+WS,Willard Scott
+WS,William Safire
+WS,William Saroyan
+WS,William Schallert
+WS,William Seward
+WS,William Shakespear
+WS,William Shakespeare
+WS,William Shatner
+WS,Willie Shoemaker
+WS,Willie Stargell
+WT,William H. Taft
+WV,Wernher Von-Braun
+WW,Walt Whitman
+WW,Walter Ray Williams
+WW,Walter Winchell
+WW,Wilbur Wright
+WW,William Wellman
+WW,Woodrow Wilson
+WY,Weird Al Yankovic
+WZ,Warren Zevon
+X,Xuxa
+XC,Xavier Cugat
+XK,X.J. Kennedy
+XP,Xena Warrior Princess
+XW,Xena Warrior-Princess
+Y,Yanni
+YA,Yasser Arafat
+YB,Yasmine Bleeth
+YB,Yogi Berra
+YB,Yul Brynner
+YD,Yvonne DeCarlo
+YG,Yuri Gagarin
+YL,Yves Saint Laurent
+YM,Yehudi Menuhin
+YM,Yves Montand
+YM,Yvette Mimieux
+YO,Yoko Ono
+YS,Yakov Smirnoff
+YS,Yma Sumac
+YT,Y.A. Tittle
+Z,Zorro
+ZB,Zach Braff
+ZF,Zelda Fitzgerald
+ZG,Zane Grey
+ZG,Zsa Zsa Gabor
+ZH,Z.Z. Hill
+ZM,Zeppo Marx
+ZM,Zero Mostel
+ZM,Zubin Mehta
+ZP,ZaSu Pitts
+ZT,Zachary Taylor
